@@ -20,127 +20,89 @@
 ### Q.5 Is JS asynchronous or synchronous language?
 **Ans. JavaScript is a synchronous, blocking, single-threaded language. That just means that only one operation can be in progress at a time. But it can be asynchronous in some specific tasks. The word asynchronous means not occurring at the same time. Typically, executing things in sequence works well. But you may sometimes need to fetch data from the server or execute a function with a delay, something you do not anticipate occurring NOW. So, you want the code to execute asynchronously. We can classify most asynchronous JavaScript operations with two primary triggers: Browser API/Web API events or functions: These include methods like setTimeout, or event handlers like click, mouse over, scroll, and many more. Promises: A unique JavaScript object that allows us to perform asynchronous operations.**
 
-### Q.6 Difference between var let and const?
-<h3>Q.6. Difference between var, let and const?</h3>
-    <h4>Ans. Difference between <a
-            href="https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/"> var, let
-            and const……. </a>
-        <table>
-            <tr>
-                <th>Var</th>
-                <th>Let</th>
-                <th>Const</th>
-            </tr>
-            <tr>
-                <td>1.The scope of a var variable is functional scope.</td>
-                <td>1.The scope of a let variable is block scope</td>
-                <td>1.The scope of a const variable is block scope.</td>
-            </tr>
-            <tr>
-                <td>2. It can be updated and re-declared into the scope. <br>
+### [Q.6 Difference between var let and const?](../Interview-Questions/Assets/JavaScript/letvarconst.png)
 
 
-                    <font style=" color: darkgreen  ;">&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; console.log(a); <br> <br><br>
-                        &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; var a = 10;
-                    </font>
-                    <br>
+### [What is hoisting ](README.md#25--what-is-hoisting )
 
-                    <br><br>
+### [What is a promise? ](README.md#51--what-is-a-promise )
 
-                    Output: undefined
-                </td>
+### [What are the states of promises.](README.md#53--what-are-the-three-states-of-promise )
 
-                <td>
-                    2.It can be updated but cannot be re-declared into the scope. <br>
-                    <font style="color: darkgreen;">
-                        &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; let a = 10
-                        <br>
-                        &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; // It is not allowed
-                        <br>
-                        &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; let a = 10 <br>
+### [What is promisify?](README.md)
 
-                        &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; // It is allowed
-                        <br>
-                        &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; a = 10
-                    </font> <br>
-                    Output:
+### [What is async await?](README.md)
 
-                    Uncaught SyntaxError: Identifier 'a' has already been declared
+### [Difference between promise and async & await. Is async await notation preferred over promises? If so, why?](README.md)
 
-                </td>
+### [What are JavaScript Objects ? how to create them. ](README.md#1--what-are-the-possible-ways-to-create-objects-in-javascript)
 
-                <td>
-                    2. It cannot be updated or re-declared into the scope. <br>
 
-                    <font style="color: darkgreen;">
-                        &nbsp; &nbsp;&nbsp; const a = 10; <br>
-                        &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; function f() { <br>
-                        &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; a = 9 <br>
-                        &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;console.log(a) <br>
-                        &nbsp; &nbsp;&nbsp;} <br>
-                        &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; f(); <br>
-                        <br>
-                    </font>
-                    Output:
-                    a=9 <br>
-                    TypeError: Assignment to constant variable.
+### [How to search for a value or a key in an object? ](README.md#199--how-do-you-get-enumerable-key-and-value-pairs)
 
-                </td>
-            </tr>
-            <tr>
-                <td>3.It can be declared without initialization</td>
-                <td>3.It can be declared without initialization</td>
-                <td>3.It cannot be declared without initialization</td>
-            </tr>
-            <tr>
-                <td>4.It can be accessed without initialization as its default value is “undefined”.</td>
-                <td>4.It cannot be accessed without initialization otherwise it will give ‘reference Error’.</td>
-                <td>4.It cannot be accessed without initialization, as it cannot be declared without initialization.
-                </td>
-            </tr>
+### [What is a callback function?](README.md#54--what-is-a-callback-function) 
 
-            <tr>
-                <td>5. hoisting done, with initializing as ‘default’ value</td>
-                <td>5.Hoisting is done, but not initialized (this is the reason for error when we access the let
-                    variable
-                    before declaration/initialization</td>
-                <td>5.Hoisting is done, but not initialized (this is the reason for error when we access the const
-                    variable before declaration/initialization</td>
-            </tr>
-        </table>
-    </h4>
+### [What are the drawbacks of callback](README.md#93--what-are-the-pros-and-cons-of-promises-over-callbacks)
 
-### What is hoisting 
-### What is a promise? What are the states of promises. What is promisify?
-### What is async await?
-### Difference between promise and async & await. Is async await notation preferred over promises? If so, why?
-### What are JavaScript Objects ? how to create them. 
-### How to search for a value or a key in an object? 
-### What is a callback function? 
-### What are the drawbacks of callback and what is callback hell.
-###  What is the difference between callback and promise. How can you write the same async operation using promise and callback 
-### Difference between function and arrow function
-### Difference between i++ and ++i
-### What is the “this” operator?
-### What is the closure concept?
-### what is closure - with code, why is it required, it's benefits 
-### What is json? What do the functions json.parse and json.stringify do?
-### What is the difference between '==' and '===' operators? 
-### What is the typeof operator? What is NaN?
-### What are settimeout and setinterval functions and what is the difference between them?
-### What is functional scope and block scope? 
-### What is shallowCopy and deepCopy
-### What is the difference between map and filter. Explain math , the built-in javascript object, functionalities. 
-### What is ES6? Explain some features of ES6
-### Difference btw typescript & javascript.
-### what is regex?
-### what is first class functions
-### diff between primitive and reference data types
-### Difference between null and undefined
-### difference between slice and splice 
-### what is spread operater and rest operator
-### how to convert intiger to string and string to integer
-### Explain JS Object methods like- Object.Keys,  Object.values and Object.entries
+### [ what is callback hell.](README.md#56--what-is-a-callback-hell)
+
+###  [What is the difference between callback and promise.](README.md#93--what-are-the-pros-and-cons-of-promises-over-callbacks)
+
+### [How can you write the same async operation using promise and callback ](README.md)
+
+### [Difference between function and arrow function](README.md#10--what-are-lambda-or-arrow-functions)
+
+### [Difference between i++ and ++i]](README.md)
+
+### [What is the “this” operator?](README.md)
+
+### [What is the closure concept?](README.md#27--what-are-closures)
+
+### [what is closure - with code, why is it required, it's benefits](README.md#27--what-are-closures) 
+
+### [What is json?](README.md#4--what-is-json-and-its-common-operations)
+
+### [What do the functions json.parse](README.md#114--how-do-you-parse-json-string) 
+
+### [What json.stringify do?](README.md#113--what-is-the-purpose-json-stringify)
+
+### [What is the difference between '==' and '===' operators?](README.md#9--what-is-the-difference-between--and--operators) 
+
+### [What is the typeof operator?](README.md#71--what-is-typeof-operator)
+
+### [What is NaN?](README.md#83--what-is-nan-property)
+
+### [What are settimeout](README.md#106--what-is-the-use-of-settimeout) 
+
+### [and setinterval functions and what is the difference between them?](README.md#107--what-is-the-use-of-setinterval)
+
+### [What is functional scope and block scope? ](README.md)
+
+### [What is shallowCopy and deepCopy](README.md#345--what-is-the-difference-between-shallow-and-deep-copy)
+
+### [What is the difference between map and filter. Explain math , the built-in javascript object, functionalities. ](README.md)
+
+### [What is ES6? ](README.md#305--what-is-es6)
+
+### [Explain some features of ES6](README.md#304--list-down-some-of-the-features-of-es6)
+
+### [Difference btw typescript & javascript.](README.md#253--what-are-the-advantages-of-typescript-over-javascript)
+
+### [what is regex?](README.md#154--what-is-a-regular-expression)
+
+### [what is first class functions](README.md#11--what-is-a-first-class-function)
+
+### [diff between primitive and reference data types](README.md#223--what-are-primitive-data-types)
+
+### [Difference between null and undefined](README.md#74--what-is-the-difference-between-null-and-undefined)
+
+### [difference between slice and splice ](README.md#7--what-is-the-difference-between-slice-and-splice)
+
+### [what is spread operater and rest operator](README.md#415--what-are-the-differences-between-spread-operator-and-rest-parameter)
+
+### [how to convert intiger to string and string to integer](README.md)
+
+### Explain JS Object methods like-  [Object.Keys](README.md#125--how-do-you-check-if-a-key-exists-in-an-object),  [Object.values](README.md#287--how-to-get-the-value-from-get-parameters) and [Object.entries](README.md#135--how-do-you-add-a-key-value-pair-in-javascript)
 
 
 ###                                                      API
