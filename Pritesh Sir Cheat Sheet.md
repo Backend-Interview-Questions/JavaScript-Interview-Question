@@ -2,13 +2,114 @@
 # [Javascript]
 
 
-### What is javascript? How does it work?
+### Q.1. What is javascript? How does it work?
+**Ans. JavaScript is the world's most popular programming language. Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers.
+     JavaScript is an interpreted language, not a compiled language. A program such as C++ or Java needs to be compiled before it is run. The source code is passed through a program called a compiler, which translates it into bytecode that the machine understands and can execute. In contrast, JavaScript has no compilation step. Instead, an interpreter in the browser reads over the JavaScript code, interprets each line, and runs it.**
 
-### What is an asynchronous operation ? Is Javascript synchronous or asynchronous. 
-### Explain async using set timeout.
-### JS is a single threaded or multi threaded ?
-### Is JS asynchronous or synchronous language ?
-### Difference between var let and const
+### Q.2. What is an asynchronous operation? Is Javascript synchronous or asynchronous.
+**Ans. Synchronous JavaScript: As the name suggests synchronous means to be in a sequence, i.e., every statement of the code gets executed one by one. So, basically a statement has to wait for the earlier statement to get executed.
+    Asynchronous JavaScript: Asynchronous code allows the program to be executed immediately where the synchronous code will block further execution of the remaining code until it finishes the current one.
+     JavaScript is a synchronous, blocking, single-threaded language. That just means that only one operation can be in progress at a time.**
+
+### Q.3. Explain async using set timeout?
+**Ans. setTimeout() is an asynchronous function, meaning that the timer function will not pause execution of other functions in the functions stack. In other words, you cannot use setTimeout() to create a "pause" before the next function in the function stack fires. JavaScript is single-threaded therefore it can only do one task at a time. It means that it can only carry a single task a given time. The setTimeout() sets a timer and executes a callback function after the timer expires.**
+
+### Q.4. JS is a single threaded or multi-threaded?
+**Ans. JavaScript is a single-threaded language because while running code on a single thread, it can be really easy to implement as we don’t have to deal with the complicated scenarios that arise in the multi-threaded environment. JavaScript is synchronous in nature.**
+
+### Q.5 Is JS asynchronous or synchronous language?
+**Ans. JavaScript is a synchronous, blocking, single-threaded language. That just means that only one operation can be in progress at a time. But it can be asynchronous in some specific tasks. The word asynchronous means not occurring at the same time. Typically, executing things in sequence works well. But you may sometimes need to fetch data from the server or execute a function with a delay, something you do not anticipate occurring NOW. So, you want the code to execute asynchronously. We can classify most asynchronous JavaScript operations with two primary triggers: Browser API/Web API events or functions: These include methods like setTimeout, or event handlers like click, mouse over, scroll, and many more. Promises: A unique JavaScript object that allows us to perform asynchronous operations.**
+
+### Q.6 Difference between var let and const?
+<h3>Q.6. Difference between var, let and const?</h3>
+    <h4>Ans. Difference between <a
+            href="https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/"> var, let
+            and const……. </a>
+        <table>
+            <tr>
+                <th>Var</th>
+                <th>Let</th>
+                <th>Const</th>
+            </tr>
+            <tr>
+                <td>1.The scope of a var variable is functional scope.</td>
+                <td>1.The scope of a let variable is block scope</td>
+                <td>1.The scope of a const variable is block scope.</td>
+            </tr>
+            <tr>
+                <td>2. It can be updated and re-declared into the scope. <br>
+
+
+                    <font style=" color: darkgreen  ;">&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; console.log(a); <br> <br><br>
+                        &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; var a = 10;
+                    </font>
+                    <br>
+
+                    <br><br>
+
+                    Output: undefined
+                </td>
+
+                <td>
+                    2.It can be updated but cannot be re-declared into the scope. <br>
+                    <font style="color: darkgreen;">
+                        &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; let a = 10
+                        <br>
+                        &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; // It is not allowed
+                        <br>
+                        &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; let a = 10 <br>
+
+                        &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; // It is allowed
+                        <br>
+                        &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; a = 10
+                    </font> <br>
+                    Output:
+
+                    Uncaught SyntaxError: Identifier 'a' has already been declared
+
+                </td>
+
+                <td>
+                    2. It cannot be updated or re-declared into the scope. <br>
+
+                    <font style="color: darkgreen;">
+                        &nbsp; &nbsp;&nbsp; const a = 10; <br>
+                        &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; function f() { <br>
+                        &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; a = 9 <br>
+                        &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;console.log(a) <br>
+                        &nbsp; &nbsp;&nbsp;} <br>
+                        &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; f(); <br>
+                        <br>
+                    </font>
+                    Output:
+                    a=9 <br>
+                    TypeError: Assignment to constant variable.
+
+                </td>
+            </tr>
+            <tr>
+                <td>3.It can be declared without initialization</td>
+                <td>3.It can be declared without initialization</td>
+                <td>3.It cannot be declared without initialization</td>
+            </tr>
+            <tr>
+                <td>4.It can be accessed without initialization as its default value is “undefined”.</td>
+                <td>4.It cannot be accessed without initialization otherwise it will give ‘reference Error’.</td>
+                <td>4.It cannot be accessed without initialization, as it cannot be declared without initialization.
+                </td>
+            </tr>
+
+            <tr>
+                <td>5. hoisting done, with initializing as ‘default’ value</td>
+                <td>5.Hoisting is done, but not initialized (this is the reason for error when we access the let
+                    variable
+                    before declaration/initialization</td>
+                <td>5.Hoisting is done, but not initialized (this is the reason for error when we access the const
+                    variable before declaration/initialization</td>
+            </tr>
+        </table>
+    </h4>
+
 ### What is hoisting 
 ### What is a promise? What are the states of promises. What is promisify?
 ### What is async await?

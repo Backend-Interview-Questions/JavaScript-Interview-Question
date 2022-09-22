@@ -35,6 +35,7 @@
 ### What is a callback function? 
 ### What are the drawbacks of callback and what is callback hell.
 ###  What is the difference between callback and promise. How can you write the same async operation using promise and callback 
+
 ### Difference between function and arrow function
 ### Difference between i++ and ++i
 ### What is the “this” operator?
