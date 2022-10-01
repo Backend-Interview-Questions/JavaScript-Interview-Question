@@ -30,7 +30,7 @@ Module Installation: Install the express module which is a web framework for Nod
 npm install express
 ```
 Implementation: Create an app.js file and write down the following code in it.
-```Nodejs
+```js
 // Require would make available the express package to be used in our code
 
 const express = require("express");
