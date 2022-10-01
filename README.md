@@ -7323,14 +7323,15 @@
 
      Rest parameter collects all remaining elements into an array.
      ```js
-     function Sum(...args){                     //takes unlimited values and convert it into array
+     function Sum(...args){                    
+     console.log(args)    //returns array e.g, [2,5,3,1]  ,takes unlimited values and convert it into array
      let sum=0
      for(const i=0 of args){
      sum += i
      } return sum
      
      }
-     console.log(Sum(2,5,3,1)) //11
+     console.log(Sum(2,5,3,1)) //returns sum 11
      ```
      Whereas Spread operator allows iterables( arrays / objects / strings ) to be expanded into single arguments/elements. i.e, Rest parameter is opposite to the spread operator.
      ```js
