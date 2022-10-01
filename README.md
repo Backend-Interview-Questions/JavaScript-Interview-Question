@@ -7326,7 +7326,7 @@
      function Sum(...args){                    
      console.log(args)    //returns array e.g, [2,5,3,1]  ,takes unlimited values and convert it into array
      let sum=0
-     for(const i=0 of args){
+     for(const i of args){
      sum += i
      } return sum
      
