@@ -20,6 +20,50 @@
 ### Q.5 Is JS asynchronous or synchronous language?
 **Ans. JavaScript is a synchronous, blocking, single-threaded language. That just means that only one operation can be in progress at a time. But it can be asynchronous in some specific tasks. The word asynchronous means not occurring at the same time. Typically, executing things in sequence works well. But you may sometimes need to fetch data from the server or execute a function with a delay, something you do not anticipate occurring NOW. So, you want the code to execute asynchronously. We can classify most asynchronous JavaScript operations with two primary triggers: Browser API/Web API events or functions: These include methods like setTimeout, or event handlers like click, mouse over, scroll, and many more. Promises: A unique JavaScript object that allows us to perform asynchronous operations.**
 
+### Q.6 How to create simple server [Hello World]
+Create NodeJS Application: Initialize the NodeJS application using the following command:
+```js
+npm init
+```
+Module Installation: Install the express module which is a web framework for NodeJS using the following command.
+```js
+npm install express
+```
+Implementation: Create an app.js file and write down the following code in it.
+```js
+// Require would make available the express package to be used in our code
+
+const express = require("express");
+
+// Creates an express object
+
+const app = express();
+
+// It listens to HTTP get request. Here it listens to the root i.e '/'
+
+app.get("/", (req, res) => {
+
+// Using send function we send response to the client  Here we are sending html
+
+res.send("<h1 style=text-align:center;margin-top:20%;font-size:200px;color:maroon;> Hello World </h1>");
+});
+
+// It configures the system to listen to port 3000. Any number can be given instead of 3000
+
+app.listen(3000, () => {                                          
+console.log("Listening to port 3000");        // Print in the console when the servers starts to listen on 3000
+});
+
+```
+Step to run the application: Run the app.js file using the following command.
+```
+node app.js  or nodemon
+```
+Output: Now open your browser and go to http://localhost:3000/, you will see the output:
+```
+Hello World
+```
+
 ### [Q.6 Difference between var let and const?](../Interview-Questions/Assets/JavaScript/letvarconst.png)
 
 
