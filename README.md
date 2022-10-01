@@ -7321,7 +7321,29 @@
 
 415. ### What are the differences between spread operator and rest parameter
 
-     Rest parameter collects all remaining elements into an array. Whereas Spread operator allows iterables( arrays / objects / strings ) to be expanded into single arguments/elements. i.e, Rest parameter is opposite to the spread operator.
+     Rest parameter collects all remaining elements into an array.
+     ```js
+     function Sum(...args){                     //takes unlimited values and convert it into array
+     let sum=0
+     for(const i=0 of args){
+     sum += i
+     } return sum
+     
+     }
+     console.log(Sum(2,5,3,1)) //11
+     ```
+     Whereas Spread operator allows iterables( arrays / objects / strings ) to be expanded into single arguments/elements. i.e, Rest parameter is opposite to the spread operator.
+     ```js
+     let Arr =[5,4,3,9]
+     function sum(a,b){
+     return a+b
+     }
+     console.log(sum(Arr)) // returns 5,4,3.9 undefined because Array turns into bunch or group of value or [array = single object or value]
+     console.log(sum(...Arr))//return 9 because spread oprator expands array into single elements every time so 5+4 =9 and 3,9 ignored
+     ```
+     
+     
+     source=> https://youtu.be/DoIGxx7P-ps
 
      **[⬆ Back to Top](#table-of-contents)**
 
