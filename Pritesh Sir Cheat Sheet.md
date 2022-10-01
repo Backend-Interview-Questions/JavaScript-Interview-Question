@@ -1,5 +1,5 @@
 # JavaScript-Interview-Question
-# [Javascript]
+# Javascript
 
 
 ### Q.1. What is javascript? How does it work?
@@ -21,7 +21,7 @@
 **Ans. JavaScript is a synchronous, blocking, single-threaded language. That just means that only one operation can be in progress at a time. But it can be asynchronous in some specific tasks. The word asynchronous means not occurring at the same time. Typically, executing things in sequence works well. But you may sometimes need to fetch data from the server or execute a function with a delay, something you do not anticipate occurring NOW. So, you want the code to execute asynchronously. We can classify most asynchronous JavaScript operations with two primary triggers: Browser API/Web API events or functions: These include methods like setTimeout, or event handlers like click, mouse over, scroll, and many more. Promises: A unique JavaScript object that allows us to perform asynchronous operations.**
 
 ### Q.6 How to create simple server [Hello World]
-Create NodeJS Application: Initialize the NodeJS application using the following command:
+Create NodeJS Application: Initialize the NodeJS application using the following command, it will create package.json files to intall dependencies
 ```js
 npm init
 ```
@@ -30,7 +30,7 @@ Module Installation: Install the express module which is a web framework for Nod
 npm install express
 ```
 Implementation: Create an app.js file and write down the following code in it.
-```js
+```Nodejs
 // Require would make available the express package to be used in our code
 
 const express = require("express");
@@ -64,7 +64,7 @@ Output: Now open your browser and go to http://localhost:3000/, you will see the
 Hello World
 ```
 
-### [Q.6 Difference between var let and const?](../Interview-Questions/Assets/JavaScript/letvarconst.png)
+### [Q.7 Difference between var let and const?](../Interview-Questions/Assets/JavaScript/letvarconst.png)
 
 
 ### [What is hoisting ](README.md#25--what-is-hoisting )
