@@ -98,8 +98,31 @@ Hello World
 
 ### [Difference between i++ and ++i]](README.md)
 
-### [What is the “this” operator?](README.md)
+### [What is the “this” operator?]
+** Ans. “This” keyword refers to an object that is executing the current piece of code. It references the object that is executing the current function. If the function being referenced is a regular function, “this” references the global object.
+```js
+var value =50
+function myFunction(){
+var value = 100;
+alert("value: " + value)  // gives current value: 100
+alert("value: " this.value) // references the global object i.e, value : 50 
+}
+myFunction()
+```
+If function that is being referenced is a method or a constructor in an object,"This" references the object itself.
+```js
+class Bike {
+  constructor(color, model) {
+    this.color = color;
+    this.model = model;
+  }
 
+  getDetails() {
+    return this.model + " bike has" + this.color + " color";
+  }
+}
+```
+**
 ### [What is the closure concept?](README.md#27--what-are-closures)
 
 ### [what is closure - with code, why is it required, it's benefits](README.md#27--what-are-closures) 
