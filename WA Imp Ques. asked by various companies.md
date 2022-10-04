@@ -81,6 +81,9 @@ What is Event Driven Architecture in Node.js ?
 22.  [What are some validations used in the schema?](#What-are-some-validations-used-in-the-schema?)
 
 1. ### What is mongo db?
+
+MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License which is deemed non-free by several distributions.
+
 2. ### What is mongoose (Explian)?
 3. ### Why we use mongoose
 
