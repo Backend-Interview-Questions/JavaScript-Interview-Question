@@ -39,12 +39,12 @@ What is Event Driven Architecture in Node.js ?
 
 | No. | Questions                                                                                                                                                         |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.  | [What is mongo db?](#what-is-mongo-db?)   
-| 2.  |  [What is mongoose (Explain)?](#what-is-mongoose-(explain)?)
-| 3.  | [Why we use mongoose?](#why-we-use-mongoose?)
-| 4.  | [Did know about schema validation](#did-know-about-schema-validation?)
-| 5.  | [Which execute first schema validation or mongodb query](#which-execute-first-schema-validation-or-mongodb-query?)
-| 6.  |  [what is indexing in mongoDB?(Is there indexing in mongodb)?](#what-is-indexing-in-mongoDB?(Is-there-indexing-in-mongodb)?)
+| 1.  | [What is mongo db?](#what-is-mongo-db?)                                            | 
+| 2.  |  [What is mongoose (Explain)?](#what-is-mongoose-(explain)?)                         |
+| 3.  | [Why we use mongoose?](#why-we-use-mongoose?)                                         |
+| 4.  | [Did know about schema validation](#did-know-about-schema-validation?)                     |
+| 5.  | [Which execute first schema validation or mongodb query](#which-execute-first-schema-validation-or-mongodb-query?)                                 |
+| 6.  |  [what is indexing in mongoDB?(Is there indexing in mongodb)?](#what-is-indexing-in-mongoDB?(Is-there-indexing-in-mongodb)?)                                      |
 | 7.  |  [How do you connect to mongodb? What is the syntax?](#How-do-you-connect-to-mongodb?-What-is-the-syntax?)
 | 8.  |  [Why do we use mongoose, if we have mongodb?](#Why-do-we-use-mongoose,-if-we-have-mongodb?)
 | 9.  | [What is aggregation in mongodb?(aggregation pipeline in mongodb)](#What-is-aggregation-in-mongodb?(aggregation-pipeline-in-mongodb))
