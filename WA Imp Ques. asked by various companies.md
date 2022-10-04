@@ -39,13 +39,12 @@ What is Event Driven Architecture in Node.js ?
 
 | No. | Questions                                                                                                                                                         |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.  | [What is mongo db?](#What-is-mongo-db?)                                                       |
-| 2.  |  [What is mongoose (Explian)?](#What-is-mongoose-(Explian)?)                                  |
-|
-| 3.  | [Why we use mongoose?](#Why-we-use-mongoose?)                                                    |
-| 4.  | [Did know about schema validation](#Did-know-about-schema-validation?)           |
-| 5.  | [Which execute first schema validation or mongodb query](#Which-execute-first-schema-validation-or-mongodb-query?)                              |
-| 6.  |  [what is indexing in mongoDB?(Is there indexing in mongodb)?](#what-is-indexing-in-mongoDB?(Is-there-indexing-in-mongodb)?)                       |
+| 1.  | [What is mongo db?](#What-is-mongo-db?)   
+| 2.  |  [What is mongoose (Explian)?](#What-is-mongoose-(Explian)?)
+| 3.  | [Why we use mongoose?](#Why-we-use-mongoose?)
+| 4.  | [Did know about schema validation](#Did-know-about-schema-validation?)
+| 5.  | [Which execute first schema validation or mongodb query](#Which-execute-first-schema-validation-or-mongodb-query?)
+| 6.  |  [what is indexing in mongoDB?(Is there indexing in mongodb)?](#what-is-indexing-in-mongoDB?(Is-there-indexing-in-mongodb)?)
 | 7.  |  [How do you connect to mongodb? What is the syntax?](#How-do-you-connect-to-mongodb?-What-is-the-syntax?)
 | 8.  |  [Why do we use mongoose, if we have mongodb?](#Why-do-we-use-mongoose,-if-we-have-mongodb?)
 | 9.  | [What is aggregation in mongodb?(aggregation pipeline in mongodb)](#What-is-aggregation-in-mongodb?(aggregation-pipeline-in-mongodb))
@@ -63,26 +62,26 @@ What is Event Driven Architecture in Node.js ?
 | 21. | [What are the different schema types in a mongoose schema?](#What-are-the-different-schema-types-in-a-mongoose-schema?)
 | 22. | [What are some validations used in the schema?](#What-are-some-validations-used-in-the-schema?)
 
-1. ### What is mongo db?
+1.  ### What is mongo db?
 
 MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License which is deemed non-free by several distributions.
 
 **[⬆ Back to Top](#MongoDB)**
 
-2. ### What is mongoose (Explian)?
+2.  ### What is mongoose (Explian)?
 
 **[⬆ Back to Top](#MongoDB)**
 
-### Why we use mongoose
+3.   ### Why we use mongoose
 
 **[⬆ Back to Top](#MongoDB)**
 
- ### Did know about schema validation
+ 4.  ### Did know about schema validation
 
 **[⬆ Back to Top](#MongoDB)**
 
 
-### Which execute first schema validation or mongodb query
+5.  ### Which execute first schema validation or mongodb query
 
 **[⬆ Back to Top](#MongoDB)**
 
