@@ -32,7 +32,7 @@ What is Event Driven Architecture in Node.js ?
 3. Create node.js server
 
 
-
+---
 
 ### =========================== [MongoDB] ==========================
 
@@ -67,13 +67,13 @@ What is Event Driven Architecture in Node.js ?
 | 21. | [What are the different schema types in a mongoose schema?](#What-are-the-different-schema-types-in-a-mongoose-schema?)
 | 22. | [What are some validations used in the schema?](#What-are-some-validations-used-in-the-schema?)
             |
-1.  ### What is mongo db?
+1. ### What is mongo db?
 
 MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License which is deemed non-free by several distributions.
 
 **[⬆ Back to Top](#MongoDB)**
 
-2.  ### What is mongoose (Explian)?
+2. ### What is mongoose (Explian)?
 
 **[⬆ Back to Top](#MongoDB)**
 
@@ -81,17 +81,17 @@ MongoDB is a source-available cross-platform document-oriented database program.
 
 **[⬆ Back to Top](#MongoDB)**
 
- 4.  ### Did know about schema validation
+ 4. ### Did know about schema validation
 
 **[⬆ Back to Top](#MongoDB)**
 
 
-5.  ### Which execute first schema validation or mongodb query
+5. ### Which execute first schema validation or mongodb query
 
 **[⬆ Back to Top](#MongoDB)**
 
 
-### what is indexing in mongoDB?(Is there indexing in mongodb)?
+6. ### what is indexing in mongoDB?(Is there indexing in mongodb)?
 
 **[⬆ Back to Top](#MongoDB)**
 
