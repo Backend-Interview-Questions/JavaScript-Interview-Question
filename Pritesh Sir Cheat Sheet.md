@@ -64,7 +64,7 @@ Output: Now open your browser and go to http://localhost:3000/, you will see the
 Hello World
 ```
 
-### [Q.7 Difference between var let and const?] ![letVarConst](./Assets/JavaScript/letVarConst.png)
+### Q.7 Difference between var let and const? ![letVarConst](./Assets/JavaScript/letVarConst.png)
 
 
 ### [What is hoisting ](README.md#25--what-is-hoisting )
