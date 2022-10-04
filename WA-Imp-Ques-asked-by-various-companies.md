@@ -44,8 +44,8 @@ What is Event Driven Architecture in Node.js ?
 
 | No. | Questions                                                                                                                                                         |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.  | [What is mongo db?](#What-is-mongo-db?)   
-| 2.  |  [What is mongoose (Explian)?](#What-is-mongoose-(Explian)?)
+| 1.  | [What is mongo db?](#What-is-mongo-db?)                                                                                                                                              |
+| 2.  |  [What is mongoose (Explian)?](#What-is-mongoose-(Explian)?)                                                                                                                                                       |
 | 3.  | [Why we use mongoose?](#Why-we-use-mongoose?)
 | 4.  | [Did know about schema validation](#Did-know-about-schema-validation?)
 | 5.  | [Which execute first schema validation or mongodb query](#Which-execute-first-schema-validation-or-mongodb-query?)
