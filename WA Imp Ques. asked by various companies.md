@@ -71,44 +71,44 @@ What is Event Driven Architecture in Node.js ?
 
 17.  [MongoDB commands to insert data in the database?](#MongoDB-commands-to-insert-data-in-the-database?)
 
-18.  [How can be fasten the response of mongodb without use of Redis?]      (#How-can-be-fasten-the-response-of-mongodb-without-use-of-Redis?)
+18.  [How can be fasten the response of mongodb without use of Redis?](#How-can-be-fasten-the-response-of-mongodb-without-use-of-Redis?)
 
 19.  [How to update the field in a document  of mongo db if the field is not available currently in our database ?](#How-to-update-the-field-in-a-document-of-mongodb-if-the-field-is-not-available-currently-in-our-database?)
 
 20.  [How do you connect to mongodb? What is the syntax?](#How-do-you-connect-to-mongodb?-What-is-the-syntax?)
 
-21.  [What are the different schema types in a mongoose schema?](#What are the different schema types in a mongoose schema?)
-22.  [What are some validations used in the schema?](#What are some validations used in the schema?)
+21.  [What are the different schema types in a mongoose schema?](#What-are-the-different-schema-types-in-a-mongoose-schema?)
+22.  [What are some validations used in the schema?](#What-are-some-validations-used-in-the-schema?)
 
-1.  What is mongo db?
-2. What is mongoose (Explian)?
-3. Why we use mongoose
+1. ### What is mongo db?
+2. ### What is mongoose (Explian)?
+3. ### Why we use mongoose
 
-4. Did know about schema validation
-5. Which execute first schema validation or mongodb query
-6. what is indexing in mongoDB?(Is there indexing in mongodb)?
-7. How do you connect to mongodb? What is the syntax?
-8. Why do we use mongoose if we have mongodb?
-9. What is aggregation in mongodb?(aggregation pipeline in mongodb)
-10. what is difference between mongodb and sql?
+4.  ### Did know about schema validation
+5.  ### Which execute first schema validation or mongodb query
+6.  ### what is indexing in mongoDB?(Is there indexing in mongodb)?
+7.  ### How do you connect to mongodb? What is the syntax?
+8.  ### Why do we use mongoose if we have mongodb?
+9.  ###  What is aggregation in mongodb?(aggregation pipeline in mongodb)
+10. ### what is difference between mongodb and sql?
 
-11. what is ACID property in database?
-12. searching any data in mongodb with same document and mysql with same rows,which one will be fast and why?
-13. why did you use use the mongoDb in all the projects ?
+11. ###  what is ACID property in database?
+12. ###  searching any data in mongodb with same document and mysql with same rows,which one will be fast and why?
+13. ### why did you use use the mongoDb in all the projects ?
 
-14. How did you intract with mongodb
-15. How we connect one document into the another document .what is reference in mongoose
+14. ### How did you intract with mongodb
+15. ### How we connect one document into the another document .what is reference in mongoose
 
-16. How to fetch data from database 
-17. MongoDB commands to insert data in the database
+16. ### How to fetch data from database 
+17. ### MongoDB commands to insert data in the database
 
 
-18. How can be fasten the response of mongodb without use of Redis?
-19. How to update the field in a document  of mongo db if the field is not available currently in our database ?
+18. ### How can be fasten the response of mongodb without use of Redis?
+19. ### How to update the field in a document  of mongo db if the field is not available currently in our database ?
 
-20. How do you connect to mongodb? What is the syntax?
+20. ### How do you connect to mongodb? What is the syntax?
 
-21. What are the different schema types in a mongoose schema? What are some validations used in the schema?
+21. ### What are the different schema types in a mongoose schema? What are some validations used in the schema?
 
 *
  A SchemaType is then a configuration object for an individual property. A SchemaType says what type a given path should have, whether it has any getters/setters, and what values are valid for that path. SchemaType is different from a type. In other words, mongoose.ObjectId !== mongoose.Types.ObjectId. A SchemaType is just a configuration object for Mongoose
