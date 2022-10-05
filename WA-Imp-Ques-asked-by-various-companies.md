@@ -62,7 +62,7 @@ What is Event Driven Architecture in Node.js ?
 | 16. | [How to fetch data from database?](#How-to-fetch-data-from-database)
 | 17. | [MongoDB commands to insert data in the database?](#MongoDB-commands-to-insert-data-in-the-database)
 | 18. | [How can be fasten the response of mongodb without use of Redis?](#How-can-be-fasten-the-response-of-mongodb-without-use-of-Redis)
-| 19. | [How to update the field in a document  of mongo db ? if the field is not available currently in our database ?](#How-to-update-the-field-in-a-document-of-mongodb-if-the-field-is-not-available-currently-in-our-database)                                       |
+| 19. | [How to update the field in a document  of mongo db? if the field is not available currently in our database?](#How-to-update-the-field-in-a-document-of-mongodb-if-the-field-is-not-available-currently-in-our-database)                                       |
 | 20. | [How do you connect to mongodb? What is the syntax?](#How-do-you-connect-to-mongodb-What-is-the-syntax)
 | 21. | [What are the different schema types in a mongoose schema?](#What-are-the-different-schema-types-in-a-mongoose-schema)
 | 22. | [What are some validations used in the schema?](#What-are-some-validations-used-in-the-schema)
@@ -149,7 +149,7 @@ MongoDB is a source-available cross-platform document-oriented database program.
 
 **[⬆ Back to Top](#MongoDB)**
 
-19. ### How to update the field in a document  of mongo db if the field is not available currently in our database ?
+19. ### How to update the field in a document  of mongo db? if the field is not available currently in our database?
 
 **[⬆ Back to Top](#MongoDB)**
 
