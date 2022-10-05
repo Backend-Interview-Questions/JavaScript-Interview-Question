@@ -149,7 +149,7 @@ MongoDB is a source-available cross-platform document-oriented database program.
 
 **[⬆ Back to Top](#MongoDB)**
 
-19. ### How to update the field in a document  of mongo db? if the field is not available currently in our database?
+19. ### How to update the field in a document  of mongodb? if the field is not available currently in our database?
 
 **[⬆ Back to Top](#MongoDB)**
 
