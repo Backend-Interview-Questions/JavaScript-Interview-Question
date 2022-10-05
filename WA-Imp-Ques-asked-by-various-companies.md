@@ -56,7 +56,7 @@ What is Event Driven Architecture in Node.js ?
 | 10. | [what is difference between mongodb and sql?](#what-is-difference-between-mongodb-and-sql)
 | 11. | [what is ACID property in database?](#what-is-ACID-property-in-database)
 | 12. | [Searching any data in mongodb with same document and mysql with same rows,which one will be fast and why?](#Searching-any-data-in-mongodb-with-same-document-and-mysql-with-same-rows-which-one-will-be-fast-and-why)                            |
-| 13. | [why did you use use the mongoDb in all the projects?](#why-did-you-use-the-mongoDb-in-all-the-projects)                                                                                      |
+| 13. | [why did you use the mongoDb in all the projects?](#why-did-you-use-the-mongoDb-in-all-the-projects)                                                                                      |
 | 14. | [How did you intract with mongodb?](#How-did-you-intract-with-mongodb)
 | 15. | [How we connect one document into the another document .what is reference in mongoose?](#How-we-connect-one-document-into-the-another-document-what-is-reference-in-mongoose)
 | 16. | [How to fetch data from database?](#How-to-fetch-data-from-database)
@@ -120,11 +120,11 @@ MongoDB is a source-available cross-platform document-oriented database program.
 
 **[⬆ Back to Top](#MongoDB)**
 
-12. ###  searching any data in mongodb with same document and mysql with same rows,which one will be fast and why?
+12. ###  Searching any data in mongodb with same document and mysql with same rows,which one will be fast and why?
 
 **[⬆ Back to Top](#MongoDB)**
 
-13. ### why did you use use the mongoDb in all the projects ?
+13. ### why did you use the mongoDb in all the projects ?
 
 **[⬆ Back to Top](#MongoDB)**
 
