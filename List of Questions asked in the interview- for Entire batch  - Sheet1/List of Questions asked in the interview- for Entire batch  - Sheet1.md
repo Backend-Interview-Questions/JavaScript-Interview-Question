@@ -1,6 +1,3 @@
----
-
-|                                                                                                                                                    |
 
 ---
 #                 |                   Questions asked in the interview                          |
