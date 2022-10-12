@@ -1,73 +1,180 @@
-Questions asked in the interview ?( Please list out all the questions that have been asked in the interview)
-Intro
-What is react
-Rate youself in react
-What is aggregation in mongodb
-Find query
-What is express, middleware,types
-Local storage vs cookies vs sessions 
-Events in frontend , DOM
-Sql vs nosql -adv and disadv
-What us promise and implementation
-Error handling in project
-Palindrome code and complexity
-Merge sort
-What is closure and its use
-Sharding, Event Emitter, Promise, callbacks, callback hell, Loading, Difference between error and exception, asynchronous, How to connect two documents in mongodb, what is populate, eventloop, package.json, JSON and why we use it, Is mongodb schemaless
-Tell me about yourself
-Web fundamentals
-Are you familiar with react
-Rate yourself in dsa
-About project
-10 min interview for screening 
-1. Introduce yourself.
-2. Which tech stacks you are familiar with?
-3. Rate yourself in DSA?
-4. How much knowledge in ReactJS & AWS?
-5. Have used any css frameworks ?
-6. Comfortable with relocation or not?
-7. How much time needed to relocate?
-8. Salary Expectation
-DSA - Largest , second largest and kth largest element. 
-Technical - how will you handle spam urls?
-It's a Screening Round Short Interview.
-1.Tell me little bit about yourself with the skills and tech slacks you have used.
-2.She asked me to explain what's basic tech that used in web Technologies.
-3.She asked me to rate myself in ReactJs and how much confident with ReactJs.
-3.She asked me to rate myself in Datebases both [NOSQL & SQL] and how much confident with both of them.
-4.In last She asked me about Data Structure & Algorithms and how much confident in that.
-Sharding, Event Emitter, Promise, callbacks, callback hell, Loading, Difference between error and exception, asynchronous, How to connect two documents in mongodb, what is populate, eventloop, package.json, JSON and why we use it, Is mongodb schemaless
+###                 |                   Questions asked in the interview                |
+|                  **( Please list out all the questions that have been asked in the interview)**
+### Introduce yourself?
+Good morning Sir/mam.
+First of all, thank you for giving me this golden opportunity to introduce myself in front of you.
+
+About me: 
+
+I am ----- .I belongs to Lucknow U.P. There are 8 members in my family including me, my Father is a Electrical Contractor and my mother is a housewife.
+
+About my educational qualification.
+
+I have completed my B.Tech in EEE from BBDNIIT, also I have completed D.El.Ed from Q.F. University, I have additional qualifications as ADCA, CCC.
+
+About my experience:
+
+After engineering , I have started my career as Electrical Engineer .So I gained total 3.6 year experience and learned lot of things.
+
+About my strengths, I am a self-motivated person, I am eager to learn different things, and I can adapt quickly to any environment.
+
+My weakness is that, I am an emotional person and easily trust people, but I am trying to overcome my weakness.
+
+My short-term goal is to get placed in a reputed company like yours, and I wanted to learn many things, and by learning these things I will get experience also from it.
+
+And my long-term goal would be to reach a higher position in your company.
+
+My hobbies are 3D Modeling and Animation.
+
+That's all about me.
+
+Once again thank you for giving an excellent opportunity.
 
 
-1. Any project explain
-2. Can u convert functional programming to object oriented programming.
-3.Indexing in mongo
-4. Which keys will choose to implement indexing in 3rd project.
-5. What if multiple api call take place.
- Firstly He strat from my intro he ask why 
-your marks is low in graduation than your 12th.Whyy use mongodb,explain url shortner project ,Why use bcrypt in e commerce project, explain binary search, caching,why you use Redis . 
-Basic introduction, Discussion about the tech. stack I have, Why we need DBMS, Some frameworks of CSS. 
-1.Tell me about your self.
-2. rate yourself on reactJs.
-2. rate yourself on Nodejs , MongoDB, Express.
-3. When you can ready to join.
-4. tell me about one of your projects and what is your role.
-5. can you able to make URL shortner Project without any dependency.
-6. How comfortable are you with DSA.
-Create node project from scratch ,post and get apis . Why mongoDB . 
-Tell me about your self,any projects also product management project brief,my daily routine,how much immediately you can join.
-1. Introduce yourself
-2. What a typical day of your life?
-3. Which all Tech stack do you know
-4. Tell me about one of your projects 
-6. Problems faced in that project
-7. Is their any questions for the interviewer about the company?
-1=> tell me about yourself
-2=> how was your day
-3=> project explanation
-4=> strength 
-5=> Are you willing to relocate
-introduce, about mern stack, give overview any of ur project , how is your day like, is relocating issue,any questions for me?
+### What is react
+
+### Rate youself in react
+
+### What is aggregation in mongodb
+
+### Find query
+
+### What is express, middleware,types
+
+### Local storage vs cookies vs sessions 
+
+### Events in frontend , DOM
+
+### Sql vs nosql -adv and disadv
+
+### What us promise and implementation
+
+### Error handling in project
+
+### Palindrome code and complexity
+
+### Merge sort
+
+### What is closure and its use
+
+### Sharding, Event Emitter, Promise, callbacks, callback hell, Loading, Difference between error and exception, asynchronous, How to connect two documents in mongodb, what is populate, eventloop, package.json, JSON and why we use it, Is mongodb schemaless
+
+
+### [Tell me about yourself](#introduce-yourself)
+
+### Web fundamentals
+
+### Are you familiar with react
+
+### Rate yourself in dsa
+
+### About project
+
+### 10 min interview for screening 
+
+### 1. [ Introduce yourself.](#introduce-yourself)
+
+### 2. Which tech stacks you are familiar with?
+
+### 3. Rate yourself in DSA?
+
+### 4. How much knowledge in ReactJS & AWS?
+
+### 5. Have used any css frameworks ?
+
+### 6. Comfortable with relocation or not?
+
+### 7. How much time needed to relocate?
+
+### 8. Salary Expectation
+
+### DSA - Largest , second largest and kth largest element. 
+
+### Technical - how will you handle spam urls?
+
+### It's a Screening Round Short Interview.
+
+### 1.Tell me little bit about yourself with the skills and tech slacks you have used.
+
+### 2.She asked me to explain what's basic tech that used in web Technologies.
+
+### 3.She asked me to rate myself in ReactJs and how much confident with ReactJs.
+
+### 3.She asked me to rate myself in Datebases both [NOSQL & SQL] and how much confident with both of them.
+
+### 4.In last She asked me about Data Structure & Algorithms and how much confident in that.
+
+### Sharding, Event Emitter, Promise, callbacks, callback hell, Loading, Difference between error and exception, asynchronous, How to connect two documents in mongodb, what is populate, eventloop, package.json, JSON and why we use it, Is mongodb schemaless
+
+
+
+### 1. Any project explain
+
+### 2. Can u convert functional programming to object oriented programming.
+
+### 3.Indexing in mongo
+
+### 4. Which keys will choose to implement indexing in 3rd project.
+
+### 5. What if multiple api call take place.
+ 
+### Firstly He strat from my intro he ask why your marks is low in graduation than your 12th.
+
+### Whyy use mongodb,explain url shortner project ?
+
+### Why use bcrypt in e commerce project?
+
+###  Explain binary search, caching,why you use Redis . 
+
+### Basic introduction, Discussion about the tech. stack I have, Why we need DBMS, Some frameworks of CSS. 
+
+### 1.Tell me about your self.
+
+### 2. rate yourself on reactJs.
+
+### 2. rate yourself on Nodejs , MongoDB, Express.
+
+### 3. When you can ready to join.
+
+### 4. tell me about one of your projects and what is your role.
+
+### 5. can you able to make URL shortner Project without any dependency.
+
+### 6. How comfortable are you with DSA.
+
+### Create node project from scratch ,post and get apis . Why mongoDB . 
+
+### Tell me about your self?
+
+### Tell me about any project? also product management project brief,?
+
+### my daily routine?
+
+### how much immediately you can join.
+
+### 1. Introduce yourself
+
+### 2. What a typical day of your life?
+
+### 3. Which all Tech stack do you know
+
+### 4. Tell me about one of your projects 
+
+### 6. Problems faced in that project
+
+### 7. Is their any questions for the interviewer about the company?
+
+### 1=> [tell me about yourself](#introduce-yourself)
+
+### 2=> how was your day ?
+
+### 3=> project explanation
+
+### 4=> strength 
+
+### 5=> Are you willing to relocate
+
+### introduce, about mern stack, give overview any of ur project , how is your day like, is relocating issue,any questions for me?
 1.Find all combination of given string?
 2.Find intersection of two arrays
 1. Find the intersection(common elements) from 2 arrays
@@ -2734,7 +2841,7 @@ Assignment given
 2. dsa question of array of obj
 3. closure
 4. deep copy and wshallow copy
-what is node js, Npm , Express, Mongodb, Express use Brief about NPM , who makae frontend and backend , Http 
+what is node js, Npm , Express, Mongodb, Express use Brief about NPM , who makas frontend and backend , Http 
 Tell me about yourself
 What is closure
 Features of Ecmascript6
