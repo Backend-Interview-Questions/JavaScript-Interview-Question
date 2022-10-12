@@ -175,8 +175,9 @@ Once again thank you for giving an excellent opportunity.
 ### 5=> Are you willing to relocate
 
 ### introduce, about mern stack, give overview any of ur project , how is your day like, is relocating issue,any questions for me?
-1.Find all combination of given string?
-2.Find intersection of two arrays
+## 1.Find all combination of given string?
+# 2.Find intersection of two arrays
+
 1. Find the intersection(common elements) from 2 arrays
 2. Find the combinations of a string
 eg: - i/p-- 'army'
