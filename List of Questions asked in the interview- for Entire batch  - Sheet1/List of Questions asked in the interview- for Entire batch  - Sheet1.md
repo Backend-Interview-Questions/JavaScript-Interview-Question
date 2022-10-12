@@ -11,27 +11,21 @@
 Good morning Sir/mam.
 First of all, thank you for giving me this golden opportunity to introduce myself in front of you.
 
-**About me:** 
+**About me:** I am ----- .I belongs to Lucknow U.P. There are 8 members in my family including me, my Father is a Electrical Contractor and my mother is a housewife.
 
-I am ----- .I belongs to Lucknow U.P. There are 8 members in my family including me, my Father is a Electrical Contractor and my mother is a housewife.
+*About my educational qualification.* I have completed my B.Tech in EEE from BBDNIIT, also I have completed D.El.Ed from Q.F. University, I have additional qualifications as ADCA, CCC.
 
-**About my educational qualification.**
+*About my experience:* After engineering , I have started my career as Electrical Engineer .So I gained total 3.6 year experience and learned lot of things.
 
-I have completed my B.Tech in EEE from BBDNIIT, also I have completed D.El.Ed from Q.F. University, I have additional qualifications as ADCA, CCC.
+About my *strengths*, I am a self-motivated person, I am eager to learn different things, and I can adapt quickly to any environment.
 
-**About my experience:**
+My *weakness* is that, I am an emotional person and easily trust people, but I am trying to overcome my weakness.
 
-After engineering , I have started my career as Electrical Engineer .So I gained total 3.6 year experience and learned lot of things.
+My *short-term goal* is to get placed in a reputed company like yours, and I wanted to learn many things, and by learning these things I will get experience also from it.
 
-About my **strengths**, I am a self-motivated person, I am eager to learn different things, and I can adapt quickly to any environment.
+And my *long-term goal* would be to reach a higher position in your company.
 
-My **weakness** is that, I am an emotional person and easily trust people, but I am trying to overcome my weakness.
-
-My **short-term goal** is to get placed in a reputed company like yours, and I wanted to learn many things, and by learning these things I will get experience also from it.
-
-And my **long-term goal** would be to reach a higher position in your company.
-
-My **hobbies** are 3D Modeling and Animation.
+My *hobbies* are 3D Modeling and Animation.
 
 That's all about me.
 
