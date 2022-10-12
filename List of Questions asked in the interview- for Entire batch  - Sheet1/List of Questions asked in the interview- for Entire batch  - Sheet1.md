@@ -1,5 +1,6 @@
-###                 |                   Questions asked in the interview                |
-|                  **( Please list out all the questions that have been asked in the interview)**
+#                 |                   Questions asked in the interview                          |
+##                |  ( Please list out all the questions that have been asked in the interview) |
+
 ### Introduce yourself?
 Good morning Sir/mam.
 First of all, thank you for giving me this golden opportunity to introduce myself in front of you.
@@ -176,7 +177,7 @@ Once again thank you for giving an excellent opportunity.
 
 ### introduce, about mern stack, give overview any of ur project , how is your day like, is relocating issue,any questions for me?
 ## 1.Find all combination of given string?
-# 2.Find intersection of two arrays
+## 2.Find intersection of two arrays
 
 1. Find the intersection(common elements) from 2 arrays
 2. Find the combinations of a string
