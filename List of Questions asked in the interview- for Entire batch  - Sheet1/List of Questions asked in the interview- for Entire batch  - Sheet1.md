@@ -7,7 +7,7 @@
 
 ## ( Please list out all the questions that have been asked in the interview)                                                                                                            :---:                                
 
-### Introduce yourself?
+### Q. 1. Introduce yourself?
 
 Good morning Sir/mam.
 First of all, thank you for giving me this golden opportunity to introduce myself in front of you.
@@ -33,7 +33,7 @@ That's all about me.
 Once again thank you for giving an excellent opportunity.
 
 
-### What is react
+### What is react?
 
 ### Rate youself in react
 
