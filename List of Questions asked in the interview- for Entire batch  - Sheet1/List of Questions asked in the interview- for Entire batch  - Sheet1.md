@@ -1141,15 +1141,14 @@ Asked about projects Wanted to know our projects in deep and Grilled Specificall
 General questions:
 1. Introduction
 2. Strength and weaknesses
-3. 
+
 Define project(any project)
 I explained url- shorter, then follow-up question was like can I add my name inside the shortened url, what are the necessary step you will perform to do the same?
 4. If name is present inside the database then how will you get the name from db and add that name in the shortened url so the url work exactly same as previous.
 5. What do you want see yourself in 5 years
 6. What is the definition of good software engineer according to you?
 7. According to you who is the best friend of good software engineer? - I have no idea what should I answer to this question so I said gfg (I feel geeksforgeeks is the best friend of good software engineer)
-Advantage Club has a unique way of celebrating. Suppose the last celebration was when the number of users was N and the next celebration will happen when the number of users grows to M, such that N and M have the same digits only in a different order. Ankit is a new joiner and he missed the last celebration, write a code to help Ankit find M, i.e. the number of users Advantage Club needs to reach for the next celebration. Example: Input: N = "524976" Output: M = "526479"Also, mention the Time Complexity of your code.
-Advantage Club hasaunique way of celebrating.Suppose the last celebration
+
 was when the number of users wasNand the next celebration will happen when
 the number of users grows toM,such thatNandMhave the same digits only ina
 different order.Ankit isanew joiner and he missed the last celebration,writea
@@ -1157,7 +1156,7 @@ code to help Ankit findM,i.e. the number of users Advantage Club needs to reach
 for the next celebration.Example:Input:N="524976"Output:M
 "526479"Also,mention the Time Complexity of your code.
 One ques of Coding within 25 minutes
-Ques=> Advantage Club has a unique way of celebrating. Suppose the last celebration was when the number of users was N and the next celebration will happen when the number of users grows to M, such that N and M have the same digits only in a different order. Ankit is a new joiner and he missed the last celebration, write a code to help Ankit find M, i.e. the number of users Advantage Club needs to reach for the next celebration. Example: Input: N = "524976" Output: M = "526479"Also, mention the Time Complexity of your code.
+
 1] basic intro what things not in my resume tell me that thing
 2] project work - brief discussion of all project
 3] in url shortner can we give our name in url if we want?can we change name like http:// name /something url
@@ -1173,15 +1172,6 @@ I explained url- shorter, then follow-up question was like can I add my name ins
 5. What do you want see yourself in 5 years
 6. What is the definition of good software engineer according to you?
 7. According to you who is the best friend of good software engineer? - I have no idea what should I answer to this question so I said gfg (I feel geeksforgeeks is the best friend of good software engineer)
-Advantage Club has a unique way of celebrating. Suppose the last celebration was when the number of users was N and the next celebration will happen when the number of users grows to M, such that N and M have the same digits only in a different order. Ankit is a new joiner and he missed the last celebration, write a code to help Ankit find M, i.e. the number of users Advantage Club needs to reach for the next celebration. Example: Input: N = "524976" Output: M = "526479"Also, mention the Time Complexity of your code.
-One ques of Coding within 25 minutes
-Ques=> Advantage Club has a unique way of celebrating. Suppose the last celebration was when the number of users was N and the next celebration will happen when the number of users grows to M, such that N and M have the same digits only in a different order. Ankit is a new joiner and he missed the last celebration, write a code to help Ankit find M, i.e. the number of users Advantage Club needs to reach for the next celebration. Example: Input: N = "524976" Output: M = "526479"Also, mention the Time Complexity of your code.
-Advantage Club has a unique way of celebrating. Suppose the last celebration was when the number of users was N and the next celebration will happen when the number of users grows to M, such that N and M have the same digits only in a different order. Ankit is a new joiner and he missed the last celebration, write a code to help Ankit find M, i.e. the number of users Advantage Club needs to reach for the next celebration. Example: Input: N = "524976" Output: M = "526479"Also, mention the Time Complexity of your code.
-One ques of Coding within 25 minutes
-Ques=> Advantage Club has a unique way of celebrating. Suppose the last celebration was when the number of users was N and the next celebration will happen when the number of users grows to M, such that N and M have the same digits only in a different order. Ankit is a new joiner and he missed the last celebration, write a code to help Ankit find M, i.e. the number of users Advantage Club needs to reach for the next celebration. Example: Input: N = "524976" Output: M = "526479"Also, mention the Time Complexity of your code.
-Advantage Club has a unique way of celebrating. Suppose the last celebration was when the number of users was N and the next celebration will happen when the number of users grows to M, such that N and M have the same digits only in a different order. Ankit is a new joiner and he missed the last celebration, write a code to help Ankit find M, i.e. the number of users Advantage Club needs to reach for the next celebration. Example: Input: N = "524976" Output: M = "526479"Also, mention the Time Complexity of your code.
-One ques of Coding within 25 minutes
-Ques=> Advantage Club has a unique way of celebrating. Suppose the last celebration was when the number of users was N and the next celebration will happen when the number of users grows to M, such that N and M have the same digits only in a different order. Ankit is a new joiner and he missed the last celebration, write a code to help Ankit find M, i.e. the number of users Advantage Club needs to reach for the next celebration. Example: Input: N = "524976" Output: M = "526479"Also, mention the Time Complexity of your code.
 How did you learn about Esko?
 Why choose Esko?
 What are your expectations from esko in terms of career growth?
@@ -1273,12 +1263,6 @@ Do you know frontend tech?
 21) if I want background color red the how can I make it
 22)border in css
 23) and related to get api
-Advantage Club has a unique way of celebrating. Suppose the last celebration was when the number of users was N and the next celebration will happen when the number of users grows to M, such that N and M have the same digits only in a different order. Ankit is a new joiner and he missed the last celebration, write a code to help Ankit find M, i.e. the number of users Advantage Club needs to reach for the next celebration. Example: Input: N = "524976" Output: M = "526479"Also, mention the Time Complexity of your code.
-Types of authorization, ideal request response time, sequalize ka queries, OAuth, mongoose, what happens when server takes time in processing data, Problem with normal and regex validation and it's alternative
-Advantage Club has a unique way of celebrating. Suppose the last celebration was when the number of users was N and the next celebration will happen when the number of users grows to M, such that N and M have the same digits only in a different order. Ankit is a new joiner and he missed the last celebration, write a code to help Ankit find M, i.e. the number of users Advantage Club needs to reach for the next celebration. Example: Input: N = "524976" Output: M = "526479"Also, mention the Time Complexity of your code.
-Types of authorization, ideal request response time, sequalize ka queries, OAuth, mongoose, what happens when server takes time in processing data, Problem with normal and regex validation and it's alternative
-Advantage Club has a unique way of celebrating. Suppose the last celebration was when the number of users was N and the next celebration will happen when the number of users grows to M, such that N and M have the same digits only in a different order. Ankit is a new joiner and he missed the last celebration, write a code to help Ankit find M, i.e. the number of users Advantage Club needs to reach for the next celebration. Example: Input: N = "524976" Output: M = "526479"Also, mention the Time Complexity of your code.
-Advantage Club has a unique way of celebrating. Suppose the last celebration was when the number of users was N and the next celebration will happen when the number of users grows to M, such that N and M have the same digits only in a different order. Ankit is a new joiner and he missed the last celebration, write a code to help Ankit find M, i.e. the number of users Advantage Club needs to reach for the next celebration. Example: Input: N = "524976" Output: M = "526479"Also, mention the Time Complexity of your code.
 
 2, is javascript backend or forntend ?
 3, what is Api ? full form nd use cases of it ?
@@ -1302,11 +1286,7 @@ Two Puzzles- 10 coin puzzle , 3 Light puzzle (refer gfg)
 One DSA asked in test
 medium to hard but they give only 25 min, Question is find out celebration of Ankit and all the elements present is array is same number. 
 Advantage Club has a unique way of celebrating. Suppose the last celebration was when the number of users was N and the next celebration will happen when the number of users grows to M, such that N and M have the same digits only in a different order. Ankit is a new joiner and he missed the last celebration, write a code to help Ankit find M, i.e. the number of users Advantage Club needs to reach for the next celebration. Example: Input: N = "524976" Output: M = "526479"Also, mention the Time Complexity of your code.
-Only one question of DSA the have asked the question is-Advantage Club has a unique way of celebrating. Suppose the last celebration was when the number of users was N and the next celebration will happen when the number of users grows to M, such that N and M have the same digits only in a different order. Ankit is a new joiner and he missed the last celebration, write a code to help Ankit find M, i.e. the number of users Advantage Club needs to reach for the next celebration. Example: Input: N = "524976" Output: M = "526479"Also, mention the Time Complexity of your code.
-Question is not easy but it is based on the next permutation so i done it....
-Advantage Club has a unique way of celebrating. Suppose the last celebration was when the number of users was N and the next celebration will happen when the number of users grows to M, such that N and M have the same digits only in a different order. Ankit is a new joiner and he missed the last celebration, write a code to help Ankit find M, i.e. the number of users Advantage Club needs to reach for the next celebration. Example: Input: N = "524976" Output: M = "526479"Also, mention the Time Complexity of your code
-1. Advantage Club has a unique way of celebrating. Suppose the last celebration was when the number of users was N and the next celebration will happen when the number of users grows to M, such that N and M have the same digits only in a different order. Ankit is a new joiner and he missed the last celebration, write a code to help Ankit find M, i.e. the number of users Advantage Club needs to reach for the next celebration. Example: Input: N = "524976" Output: M = "526479"Also, mention the Time Complexity of your code.
-Advantage Club has a unique way of celebrating.
+
  Suppose the last celebration was when the number of users was N and the
  next celebration will happen when the number of users grows to M, such that N and M
  have the same digits only in a different order. Ankit is a new joiner and he missed the last celebration,
@@ -1328,7 +1308,6 @@ Advantage Club has a unique way of celebrating.
 so question asked on how u have over come from under pressure work?
 overview :- interviewer was quite impressive with me and he was smiling all the tym 
 finally gave return offer saying that our company is not working on this technology but i will give u a 1 month tym learn aws, devops , maven , docker, seleium , javascript css html with frontend and java any of this 1 technology and come back our company pay you 50000 thousand in hand..this is my guarantee i will provide u a job . 
-Advantage Club has a unique way of celebrating. Suppose the last celebration was when the number of users was N and the next celebration will happen when the number of users grows to M, such that N and M have the same digits only in a different order. Ankit is a new joiner and he missed the last celebration, write a code to help Ankit find M, i.e. the number of users Advantage Club needs to reach for the next celebration. Example: Input: N = "524976" Output: M = "526479"Also, mention the Time Complexity of your code.
 
 
 2. how to create key similar to MySQL primary key in mongoDb.
@@ -1409,7 +1388,7 @@ console.log(hero.getSecretIdentity());
 10. https://leetcode.com/problems/spiral-matrix/
 11.https://leetcode.com/problems/merge-intervals/submissions/
 Advantage Club has a unique way of celebrating. Suppose the last celebration was when the number of users was N and the next celebration will happen when the number of users grows to M, such that N and M have the same digits only in a different order. Ankit is a new joiner and he missed the last celebration, write a code to help Ankit find M, i.e. the number of users Advantage Club needs to reach for the next celebration. Example: Input: N = "524976" Output: M = "526479"Also, mention the Time Complexity of your code
-Advantage Club has a unique way of celebrating. Suppose the last celebration was when the number of users was N and the next celebration will happen when the number of users grows to M, such that N and M have the same digits only in a different order. Ankit is a new joiner and he missed the last celebration, write a code to help Ankit find M, i.e. the number of users Advantage Club needs to reach for the next celebration. Example: Input: N = "524976" Output: M = "526479"Also, mention the Time Complexity of your code.
+
 
 15.What is recursion
 16. How to empty array
@@ -2032,8 +2011,7 @@ tell me some technics that you used in your project and some project releted dis
 
 1) He gave me a senario where he asked that if we want to calculate the electrical power consumption of a user then what will be the models,controlers and routes we will have to design 2)He asked me the to open the online shoping website and expalin the project in nutshell and describe how to use s3 service of it and in which format image file gets saved
 3 asked me that to name the modules that I have used in the project and also asked me about the git commands.
-1) He gave me a senario where he asked that if we want to calculate the electrical power consumption of a user then what will be the models,controlers and routes we will have to design 2)He asked me the to open the online shoping website and expalin the project in nutshell and describe how to use s3 service of it and in which format image file gets saved
-3 asked me that to name the modules that I have used in the project and also asked me about the git commands.
+
 
 They give a data of array of objects and said
  // 1. Find the number of Action movies
@@ -2372,7 +2350,7 @@ Projects, overall experience, Ooops, class, overriding and overloading, inherita
 write code to make form and save detail in MongoDB
   2)javascript is a multithreaded or singlethreaded, 3)javascript is a asynchronous or synchronous,4)About projects 5)what is promise 6) what is callback 8)what is OOPS,9) what is operating system?
 2. What is cloud Providers, 3. Services of AWS ,4.difference between Aws (s3) and Database,5.Name of dataStructures and explain each of them in one line, 6.Tell me verbally how you merge two sorted array, without using any constraints, eg like without storing into any empty array or without pushing it into a empty array. like you can not make > let result = [], and pushing everyelement into it.
- 2. What is cloud Providers, 3. Services of AWS ,4.difference between Aws (s3) and Database,5.Name of dataStructures and explain each of them in one line, 6.Tell me verbally how you merge two sorted array, without using any constraints, eg like without storing into any empty array or without pushing it into a empty array. like you can not make > let result = [], and pushing everyelement into it.
+ 
 
 
 what is buffer, create a server , how u will build app like ola, Piping, tell me about your self, url package, http method, etc
@@ -2478,13 +2456,8 @@ Introduction and url shortner project
 4. how to connect two table in sql
 Round1: 1. What is redis and LRANGE command? 2. What is indexing? 3. COLLSCAN vs IXSCAN in indexing 4. Do you know about media query? 5. What is express.js? 6. What is data structure? 7. What is database? 8. What LIKE do in SQL 9. What is aggregation and give some name? 10. What unwind do in mongoDB? 11. How would you select all the element present in a column? Round2) 12. Write a program to sort an element in ascending or in descending order which takes two arguments one is arrays in an array and the second one is order. 13. Why are you using merge sort to solve above program? 14. About company 15. Tell me two error you get from mongoDB during project implementation 16. If you have to set date as default in schema then what you will do? 
 Round3) 1. Explain product management project 2. Explain aws s3 and in which file you kept it. 3. Explain the whole code flow. 4. Where did you use aws s3 in your project and explain the whole flow. 
-Round1: 1. What is redis and LRANGE command? 2. What is indexing? 3. COLLSCAN vs IXSCAN in indexing 4. Do you know about media query? 5. What is express.js? 6. What is data structure? 7. What is database? 8. What LIKE do in SQL 9. What is aggregation and give some name? 10. What unwind do in mongoDB? 11. How would you select all the element present in a column? Round2) 12. Write a program to sort an element in ascending or in descending order which takes two arguments one is arrays in an array and the second one is order. 13. Why are you using merge sort to solve above program? 14. About company 15. Tell me two error you get from mongoDB during project implementation 16. If you have to set date as default in schema then what you will do? 
-Round3) 1. Explain product management project 2. Explain aws s3 and in which file you kept it. 3. Explain the whole code flow. 4. Where did you use aws s3 in your project and explain the whole flow. 
-Round1: 1. What is redis and LRANGE command? 2. What is indexing? 3. COLLSCAN vs IXSCAN in indexing 4. Do you know about media query? 5. What is express.js? 6. What is data structure? 7. What is database? 8. What LIKE do in SQL 9. What is aggregation and give some name? 10. What unwind do in mongoDB? 11. How would you select all the element present in a column? Round2) 12. Write a program to sort an element in ascending or in descending order which takes two arguments one is arrays in an array and the second one is order. 13. Why are you using merge sort to solve above program? 14. About company 15. Tell me two error you get from mongoDB during project implementation 16. If you have to set date as default in schema then what you will do? 
-Round3) 1. Explain product management project 2. Explain aws s3 and in which file you kept it. 3. Explain the whole code flow. 4. Where did you use aws s3 in your project and explain the whole flow. 
-Round1: 1. What is redis and LRANGE command? 2. What is indexing? 3. COLLSCAN vs IXSCAN in indexing 4. Do you know about media query? 5. What is express.js? 6. What is data structure? 7. What is database? 8. What LIKE do in SQL 9. What is aggregation and give some name? 10. What unwind do in mongoDB? 11. How would you select all the element present in a column? Round2) 12. Write a program to sort an element in ascending or in descending order which takes two arguments one is arrays in an array and the second one is order. 13. Why are you using merge sort to solve above program? 14. About company 15. Tell me two error you get from mongoDB during project implementation 16. If you have to set date as default in schema then what you will do? 
-Round3) 1. Explain product management project 2. Explain aws s3 and in which file you kept it. 3. Explain the whole code flow. 4. Where did you use aws s3 in your project and explain the whole flow. 
-Where are you from?
+
+
 Asked about functionup bootcamp and what is the course duration?
 What are the tech stack you are working on?
 
