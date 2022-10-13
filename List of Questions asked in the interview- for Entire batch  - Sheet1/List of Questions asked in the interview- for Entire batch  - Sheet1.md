@@ -36,9 +36,7 @@ That's all about me.
 Once again thank you for giving an excellent opportunity.
 
 
-### [What is react?](../ReactJS/README.md#what-is-react)
 
-### Rate youself in react
 
 ### [What is aggregation in mongodb](../README.md)
 
@@ -68,7 +66,7 @@ Once again thank you for giving an excellent opportunity.
 
 ### Web fundamentals
 
-### Are you familiar with react
+
 
 ### Rate yourself in dsa
 
@@ -81,7 +79,7 @@ Once again thank you for giving an excellent opportunity.
 
 ### 3. Rate yourself in DSA?
 
-### 4. How much knowledge in ReactJS & AWS?
+
 
 ### 5. Have used any css frameworks ?
 
@@ -101,7 +99,6 @@ Once again thank you for giving an excellent opportunity.
 
 ### 2.She asked me to explain what's basic tech that used in web Technologies.
 
-### 3.She asked me to rate myself in ReactJs and how much confident with ReactJs.
 
 ### 3.She asked me to rate myself in Datebases both [NOSQL & SQL] and how much confident with both of them.
 
@@ -130,10 +127,6 @@ Once again thank you for giving an excellent opportunity.
 ###  Explain binary search, caching,why you use Redis . 
 
 ### Basic introduction, Discussion about the tech. stack I have, Why we need DBMS, Some frameworks of CSS. 
-
-### 1.Tell me about your self.
-
-### 2. rate yourself on reactJs.
 
 ### 2. rate yourself on Nodejs , MongoDB, Express.
 
@@ -257,7 +250,7 @@ how node works, module types , dot env , command used for requiring library in a
 3)what is http req.
 4) difference between error and exception
 5) what is express?
-Difference between React and Node JS ,
+
 7. how node js handles multiple requests 
 5. what is asynchronisms process and how node js handles.
 Please share your earlier experience working with node.js?
@@ -343,15 +336,15 @@ http
 node-resource
 static
 17.which of the following template engines can be used with node.js
-jade
-vash
-handlebars
-all of the above
+*.* jade
+*.* vash
+*.* handlebars
+*.* all of the above
 18.which of the following tool automates various tasks of node.js application?
-Express.js
-GruntJS
-NPM
-None of the above
+*.* Express.js
+*.* GruntJS
+*.* NPM
+*.* None of the above
 19.which of the following are valid languages for node.js?
 javascript
 java
@@ -420,6 +413,29 @@ How backend deals with jwt and frontend deals with Jwt .
 Where jwt tokes stored browser orsomewhere else
 
 
+
+
+
+ReactJS:
+
+How much knowledge in ReactJS ?
+
+### [What is react?](../ReactJS/README.md#what-is-react)
+
+Rate youself in react
+She asked me to rate myself in ReactJs and how much confident with ReactJs.
+What is pure component in React,
+What is the difference between element and component in react,
+What is state, props?
+Difference between React and Node JS ,
+Are you familiar with react
+Are you aware of react and AngularJS
+Have You Worked on React?
+Pure Components in React?
+What is virtual DOM
+Why we use React not other? Advantage & Disadvantage?
+What is redux?
+What is props in react?
 
 
 
@@ -610,7 +626,7 @@ Question similar to valid parentheses
 1.Are you willing to relocate?
 2.What is your Professional Skills?
 3.Have You Made any Personal Project apart from the project u made in functionUp?
-4.Have You Worked on React?
+
 5.What is your Salary Expectation?
 
 
@@ -768,7 +784,7 @@ child progressive
 6. Basically checking the confidence 
 Three parts in that 
 1. Javascript - mostly theory questions with 2-3 code like what will be the output 
-2. Frontend - html, css, react questions 
+2. Frontend - html, css questions 
 3. Backend - SQL, http methods, requests, header, few output finding question 
 1. Introduction
 2. Why want to restart career
@@ -920,21 +936,12 @@ b. in a dark room, there are 10 red socks, 10 blue socks and 10 green socks
 how much less quantity you can bring once so that you'll get one pair of socks
 
 
-
-Pure Components in React?
-What is virtual DOM
-Why we use React not other? Advantage & Disadvantage?
-What is redux?
-How can we use states ? different methods of using states
 What nosql data base?
 Why we use is it?
 JSON vs BSON vs GSON
 Question Related Project?
 Gave problem statement to build API in Book mangement project.
-ReactJS:
-What is pure component in React,
-What is the difference between element and component in react,
-What is state, props?
+
 
 What is MVC
 Why is module.exports used for,
@@ -1003,7 +1010,6 @@ O/P - '1110'
 3. How to make project scalable?
 4. Promise, async - await
 
-7. Components in ReactJS
 8. Do you know about E9?, Then he explained about company
 
 Aptitute , Logical Reasoning, Basic maths , Basic Physics
@@ -1770,12 +1776,8 @@ Body parser
 
 js data types
 One DSA problem , About indexing, About transation , CSS flex, Who is webpage render
+
 1. Index in mongodb
-2. React DOM
-3. NUMBER OF characters in the sentence
-4. in a hat, 1 to100 numbers are written in a piece of paper. From the hat you have to take 2 piece of paper, then take the difference of both numbers and write that difference in separate paper and put it into the hat and remove both withdrawal paper.how many steps are required to get a single piece of paper.
-1. Index in mongodb
-2. React DOM
 3. NUMBER OF characters in the sentence
 4. in a hat, 1 to100 numbers are written in a piece of paper. From the hat you have to take 2 piece of paper, then take the difference of both numbers and write that difference in separate paper and put it into the hat and remove both withdrawal paper.how many steps are required to get a single piece of paper.
 
@@ -1821,8 +1823,7 @@ Mobillion lab questions
 
 1)About redis 2)callback 3)quicksort 4) git command to commit 5)html tags
 In how many ways we can do asynchronous programming in java script, which factor is responsible for asynchronous programming in java script,what is agreegation pipeline and what are its steps.and they alson asked me to sort an array live coding.
-Introduction
-Components of ReactJs
+
 Explain cartModel of 5th project
 Explain req.send and res.send
 Explain findOne
@@ -1838,7 +1839,6 @@ Different types of API?
 async await
 projects E-commerce website explain?
 GraphQL?
-React components?
 basics of HTML, CSS?
 What projects have you done what technologies used while developing these projects. Are u willing to relocate. 
 Explain any one project
@@ -2262,7 +2262,7 @@ About book management project
 
 About my past internship
 Why I see myself after 5 years
-Are you aware of react and AngularJS
+
 What is git. Why use git
 Git commands
 Git conflicts
@@ -2293,8 +2293,7 @@ Write a schema of a user in Excel sheet
  
 
 
-asked about the React assignment which is provided by the company and runs the project,
-and asked DSA questions--
+asked DSA questions--
 1) remove duplicates from the array
 2) remove ODD numbers from the array.
 
@@ -2345,7 +2344,7 @@ Stack que
 Linear list
 Non linear list
  operating system related questions, different data structures, sorting algorithms, 
-Explain Projects, question on data structure- like array, stack, queue, tree,  react states, spreed operators, JavaScript function 
+Explain Projects, question on data structure- like array, stack, queue, tree,  spreed operators, JavaScript function 
  what is event emitter, how to avoid callback hell, difference between mySql and nosql
   2)javascript is a multithreaded or singlethreaded, 3)javascript is a asynchronous or synchronous,4)About projects 5)what is promise 6) what is callback  8)what is OOPS,9) what is operating system?
  2. What is cloud Providers, 3. Services of AWS ,4.difference between Aws (s3) and Database,5.Name of dataStructures and explain each of them in one line, 6.Tell me verbally how you merge two sorted array, without using any constraints, eg like without storing into any empty array or without pushing it into a empty array. like you can not make > let result = [], and pushing everyelement into it.
@@ -2390,10 +2389,9 @@ What is your name
 Where are you from
 Tell me about your current job
 What programming languages do you know
-What is react
-What is props in react
+
 What is your expected salary 
-Tell me something about Yourself , What do you understand by React JS ,  Where is your home time 
+Tell me something about Yourself ,  Where is your home time 
 DOM, array, array properties, http request, object, put and patch 
 intro
 what is Data Structure Explain stack , queue , with example 
@@ -2668,7 +2666,6 @@ Callback, Promises, How to store data in database without using array, object, j
 2,3 question ask more i forget that questions
 Tell me about self
 About graduation which year complete and gap
-Do you know about React 
 What is the work of HTML CSS and Java script 
 Task :- create schema and create user and save in data base 
 
