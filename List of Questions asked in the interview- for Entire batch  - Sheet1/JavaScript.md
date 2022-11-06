@@ -470,22 +470,152 @@ Ans. JavaScript is a synchronous, blocking, single-threaded language. That just 
 
 ---
 Note: Sometimes, users face the problem while working with the var variable as they change the value of it in the particular block. So, users should use the let and const keyword to declare a variable in JavaScript. 
----
 
-  **[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#table-of-contents)**
 
 7. ### What is hoisting 
 
-    **[⬆ Back to Top](#table-of-contents)**
-8. ### What is a promise? What are the states of promises. What is promisify?
+    Hoisting is a JavaScript mechanism where variables, function declarations and classes are moved to the top of their scope before code execution. Remember that JavaScript only hoists declarations, not initialisation.
+    Let's take a simple example of variable hoisting,
+
+    ```javascript
+    console.log(message); //output : undefined
+    var message = "The variable Has been hoisted";
+    ```
+
+    The above code looks like as below to the interpreter,
+
+    ```javascript
+    var message;
+    console.log(message);
+    message = "The variable Has been hoisted";
+    ```
+
+    In the same fashion, function declarations are hoisted too
+
+    ```javascript
+    message("Good morning"); //Good morning
+
+    function message(name) {
+      console.log(name);
+    }
+    ```
+
+    This hoisting makes functions to be safely used in code before they are declared.
 
     **[⬆ Back to Top](#table-of-contents)**
+
+8. ### What is a promise? 
+
+
+    A promise is an object that may produce a single value some time in the future with either a resolved value or a reason that it’s not resolved(for example, network error). It will be in one of the 3 possible states: fulfilled, rejected, or pending.
+
+    The syntax of Promise creation looks like below,
+
+    ```javascript
+    const promise = new Promise(function (resolve, reject) {
+      // promise description
+    });
+    ```
+
+    The usage of a promise would be as below,
+
+    ```javascript
+    const promise = new Promise(
+      (resolve) => {
+        setTimeout(() => {
+          resolve("I'm a Promise!");
+        }, 5000);
+      },
+      (reject) => {}
+    );
+
+    promise.then((value) => console.log(value));
+    ```
+
+    The action flow of a promise will be as below,
+
+    ![Screenshot](images/promises.png)
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+52. ### Why do you need a promise
+
+    Promises are used to handle asynchronous operations. They provide an alternative approach for callbacks by reducing the callback hell and writing the cleaner code.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+53. ### What are the three states of promise
+
+    Promises have three states:
+
+    1. **Pending:** This is an initial state of the Promise before an operation begins
+    2. **Fulfilled:** This state indicates that the specified operation was completed.
+    3. **Rejected:** This state indicates that the operation did not complete. In this case an error value will be thrown.
+
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+    ### What is promisify?
+The util.promisify() method defines in utilities module of Node.js standard library. It is basically used to convert a method that returns responses using a callback function to return responses in a promise object.
+Syntax:
+
+util.promisify(func)
+Parameters: This method accepts a single parameter func that holds the callback based function.
+
+Return Value: This method returns a promise based function.
+```js
+// Node.js program to illustrate
+// util.promisify() methods
+
+// Importing Utilities module
+const util = require('util')
+
+// Importing File System module
+const fs = require('fs')
+
+// Use promisify to convert callback
+// based method fs.readdir to
+// promise based method
+const readdir = util.promisify(fs.readdir)
+
+readdir('process.cwd()') //The process.cwd() method is an inbuilt application programming interface of the process module which is used to get the current working directory of the node.js process.
+.then(files => {
+	console.log(files)
+})
+.catch(err => {
+	console.log(err)
+})
+
+Output:
+
+[Error: ENOENT: no such file or directory, 
+scandir 'C:\Users\bhudk\Desktop\nodec\process.cwd()'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: 'C:\\Users\\bhudk\\Desktop\\nodec\\process.cwd()'
+}
+```
+
+
 9. ### What is async await?
+**Async:** It simply allows us to write promises based code as if it was synchronous and it checks that we are not breaking the execution thread. It operates asynchronously via the event-loop. Async functions will always return a value. It makes sure that a promise is returned and if it is not returned then JavaScript automatically wraps it in a promise which is resolved with its value.
+**Await:** Await function is used to wait for the promise. It could be used within the async block only. It makes the code wait until the promise returns a result. It only makes the async block wait.
 
-    **[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#table-of-contents)**
+
 10. ### Difference between promise and async & await. Is async await notation preferred over promises? If so, why?
+---
+|Sr.no	|Promise|Async/Await|
+|1.	|Promise is an object representing intermediate state of operation which is guaranteed to complete its execution at some point in future.	|Async/Await is a syntactic sugar for promises, a wrapper making the code execute more synchronously.|
+|2.	|Promise has 3 states – resolved, rejected and pending.	|It does not have any states. It returns a promise either resolved or rejected.|
+|3.	|If the function “fxn1” is to executed after the promise, then promise.then(fxn1) continues execution of the current function after adding the fxn1 call to the callback chain.|	If the function “fxn1” is to executed after await, then await X() suspends execution of the current function and then fxn1 is executed.    |                            
+|4.	|Error handling is done using .then() and .catch() methods.|	Error handling is done using .try() and .catch() methods.|
+|5.	|Promise chains can become difficult to understand sometimes.|	Using Async/Await makes it easier to read and understand the flow of the program as compared to promise chains.   |    
+---
 
-    **[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#table-of-contents)**
 11. ### What are JavaScript Objects ? how to create them. 
 
     **[⬆ Back to Top](#table-of-contents)**
