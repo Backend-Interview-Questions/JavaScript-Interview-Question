@@ -1,532 +1,4 @@
 
-Which function we use to upload in s3?
-What are insert and insertOne?
-
-Mobillion lab questions 
-1. Even Driven
-2. Which programming language use even driven
-
-Different types of API?
-
-GraphQL?
-
-Ecryption
-
-In how many ways we can do asynchronous programming in java script, which factor is responsible for asynchronous programming in java script,
-Q. what is agreegation pipeline and what are its steps.and they also
-
-*What is OOPS, explain the 4 pillars of OOPS?
-*What is object? 
-*Explain access specifiers in javascript? 
-*What is exception handling and how do we achieve it
-*What are stack and queue ? 
-What is indexing
-
-Rest Apis
-Rotate array
-Lots of talking.. Interviewer is very good 
-tech questions, npm description like how it works, system modelling etc.
-Callback
-Callback hell
-Writing query for seaching element from document
-
-
-
-Collection
-Authentication and Authorisation
-
-when we'll use post Api
-
-
-Promise in deep
-Callback
-Callback hell
-How to route a number without using Math functions
-Map, filter, reduce(in deep)
-
-Give the name of Escape Characters?
-null vs undefinded, synchronous and asynchronous in javascript, async await ,promises, how promises works in depth ,why we use call back , drwaback of call back , express js in detail and depth. let , var and const difference . Scope,
-
-Document
-Schema
-
-7. What is Microservice architecture?
-
-
-Higher order function
-Microservices
-Docker
-Question based on fetch,promise.all
-
-What are data structure
-What are datatypes
-Explain different data type why we need them
-What is memory
-Where value allocated in memory 
-Explain the full process of storing value in memory
-How an array allocated in memory
-Product schema given to me and i have acees all the product write code for this
-Also access all title of array without for loop 
-How can you change title of each without loop in which you have given product object in array which contain title write code for this,data structure, indexing, asynchronous operation, promises,regex, interface , some situational ques.
-
-
-1.how to connect local to github
-
-Thoroughly asked about http request
-Difference between get and post.. can we create the with get
-Difference between put and patch
-
-Difference between http and https
-About axios
-
-
-setTimeOut and setinterval
-How to stop setinterval execution 
-
-5. Explain synchronous and asynchronous.
-6. Replica and Scaling in DBMS.
-
-upsert flag 
-cors policy
-csv file, http module, built modules
-
-what is event emmite.
-
-how to measure the performance of async operation.
-8. Feature of JavaScript.
-
-10. What is event loop.
-What is a module
-
-About NPM
-Callback hell and how to avoid it
-
-What are dependencies and how to update the version of existing dependencies 
-
-make api for collect product detail from order collection?
-what is rest api?
-put and post api?
-
-Polymorphism type
-What technologies do you know 
-
-We are not a language specific company, do you have any problem with that
-Are you comfortable with frontend
-
-
-what is api?
-what is network call?
-
-2. How u get request from user.
-3. Write example of async and await.
-4. Event driven architecture working.
-5. Write file system append method.
-
-Difference between error and exception 
-
-what is different type of module
-
-what is differenct between super class and sub class
-
-Git hub commands
-
-
-Replication
-Cluster
-Scalability of application
-
-About my past internship
-Why I see myself after 5 years
-
-What is git. Why use git
-Git commands
-Git conflicts
-
-Indroduction
-
-What is difference between Error and exception
-how many types of function API
-
-What is the function of apis
-What is the controlled function 
-
-
-Opps
-
-Sort algorithm
-Operation system
-Stack que
-Linear list
-Non linear list
- operating system related questions, different data structures, sorting algorithms, 
-question on data structure- like array, stack, queue, tree,  spreed operators, JavaScript function 
-  6.Tell me verbally how you merge two sorted array, without using any constraints, eg like without storing into any empty array or without pushing it into a empty array. like you can not make > let result = [], and pushing everyelement into it.
-
- what can we use instead of callback? I replied then! What is benefits and cons of using promise instead of callback, and many more 
-Write a schema of a user in Excel sheet
- Function of control flow
- 
-how many types of api function 
-What are routes
-
-2 write schema for category 
-3 write schema for product
-4 write code to set up route
-5 how will you perform crud operation 
-6 write create product api
-7 write get all product api
-8 write get product api which return first matching condition
-9 how will return first matching document for particular id from param write api for it
-10 how will you read the params route("/:id") 
-11 write api to update product description
-12 main difference betwween find, findone,AND findbyid
-13 what query you used to update one product and multipleple product matching with given filter
-14-overall experience, Ooops, class, overriding and overloading, inheritance 
-What is DOM?
-Give example of stack and queue? 
-How to manipulate DOM?
-Query selector.why did you chose tech??
-
-DOM, array, array properties, http request, object, put and patch 
-intro
- Explain stack , queue , with example 
-Explain List it's Advantage
-what is array in js
-how to declare array
-difference between var ,let, const
-what is global scope
-what is interface in js
-
- 2. How u get request from user.
-3. Write file system append method.
-
-
-6. encrypt concept 
-
-8. Http status code
-
-2. what is diffrence between error and exception
-6.if you know api from scratch
-7.How many clients you can handle at a time 
-
-Question-Based on assignment given. Add one more field in model -DOB and in get API calculate age according to DOB and send it in response
-Rest api
-
-Bubble sort write in vs code 
-How to find unique data in data base ,
-
-What is software Development life cycle
-write aggregation query for given data?
-lookup?
-what is aggregation?
-comulitive sum of an array?
-
- 
-2. diff between array list and linked list in java
-3. parallelism in java
-
-Round1:  2. What is indexing? 3. COLLSCAN vs IXSCAN in indexing 4. Do you know about media query? 5. What is express.js? 6. What is data structure?  9. 11. How would you select all the element present in a column? Round2) 12. Write a program to sort an element in ascending or in descending order which takes two arguments one is arrays in an array and the second one is order. 13. Why are you using merge sort to solve above program? 14. About company 15.  16. If you have to set date as default in schema then what you will do? 
-Round3) 
-
-
-Asked about functionup bootcamp and what is the course duration?
-What are the tech stack you are working on?
-
-How many types are API functions are there?
-You are interested in more into backend profile or fullstack profile?
-What is your salary expectation?
-
-
-What is fork
-Oops in java script
-
-Function overloading and overriding 
-
-Aptitude questions on probability functions and time &work.
-4 questions are asked
-
-
-
-Function overloading and function overriding
-Live example of function overloading
-Oops concepts in js
-Event driven architecture
-
-
-what are promises?
- what are async and await ? 
-
-Aggregation 
-Difference between find, findone, match
-What is json
-What is bson
-Difference between json and object
-How to declare array
-2d array
-What is array and object 
- diff between Undefine, null , NaN, Aggerigation pipline, insert query, find find one difference, parseint convertion string to number.
-coding assignment
- typescript,  authentication and authorisation etc
-
-
-
-2)what is Asyncronous and Synchronous
-3)what is Currying
-4)what is callback
-Callback, Promises,  object, jason. Background, 
-7. expectation from the company
-8. location will be okay r not
-what is synchronous and Asynchronous, Call Back hell,
-1)diff b/w java and javascript
-What are Primitive Data and Reference Data?
-
-1.what is datatypes .difference between undefine and Null.
-2- How to declare arrays and can we add multiple types of data in arrays?
-3- What is Linked List?
-4- What is Stack?
-5- What is Queue?
-6- What is Tree?
-
-
-### Find query
-
-
-
-### Local storage vs cookies vs sessions 
-
-### Events in frontend , DOM
-
-
-### What us promise and implementation
-
-
-### Palindrome code and complexity
-
-### Merge sort
-
-### What is closure and its use (Write code)?
-
-### Sharding, Event Emitter, Promise, callbacks, callback hell, Loading, Difference between error and exception, asynchronous,  eventloop, package.json, JSON and why we use it, 
-
-
-
-### Web fundamentals
-
-# 1. What is your profile at functionup.
-
-### Rate yourself in dsa
-
-
-### 10 min interview for screening 
-
-
-### 2. Which tech stacks you are familiar with?
-
-
-
-
-### 6. Comfortable with relocation or not?
-
-### 7. How much time needed to relocate?
-
-### 8. Salary Expectation
-
-
-
-
-2 why did you want join tech 
-3 where and how you learn coding
-4 do you have any plan with new entry in tech (your dream plan with tech regarding)
-10 do you have any question to me 
-
-
-What is your aim in life?
-What do you expect from this job, if you are selected?
-when can you start working?
-Are you comfortable relocating to Hyderabad?
-
-
-### Technical - how will you handle spam urls?
-
-### It's a Screening Round Short Interview.
-
-### 1.Tell me little bit about yourself with the skills and tech slacks you have used.
-
-### 2.She asked me to explain what's basic tech that used in web Technologies.
-
-
-### 4.In last She asked me about Data Structure & Algorithms and how much confident in that.
-
-
-
-### 2. Can u convert functional programming to object oriented programming.
-
-### 3.Indexing in mongo
-
-
-### 5. What if multiple api call take place.
- 
-### Firstly He strat from my intro he ask why your marks is low in graduation than your 12th.
-
-
-###  Explain binary search?
-
-
-### 2. rate yourself on Nodejs , Express.
-
-### 3. When you can ready to join.
-
-
-
-Salary expectation, Technologies worked with, experience, where are you locating , 
-Tell me about yourself ?
-Why should we hire you ?
-What do you know about our company ?
-What are your qualifications?
-What ever you have named the skills in the resume do you know all the skills ? 
-### 6. How comfortable are you with DSA.
-
-
-### Tell me about your self?
-
-### my daily routine?
-
-### how much immediately you can join.
-
-
-
-### 2. What a typical day of your life?
-
-### 3. Which all Tech stack do you know
-
-
-### 7. Is their any questions for the interviewer about the company?
-
-3. What we can do to no let server down?
-2. Why want to restart career
-3. Asked about all the tech stacks I know 
-4. They want experience
-5. For freshers - they are providing internship saying they will pay - 15000/month
-
-
-5.Pillars of OOPS
-6.PolyMorphism with example
-7.Overloading
-
-5. If you have to design a fullstack website what you will design first-backend or frontend? why?
-8. explain stack and queue
-9. types of scopes in js
-13. diff between setTimeout and setInterval.
-14. explain CORS
-2. why promises are use make a function for that.
-8. explain call bind and apply and make a function to use all.
-
-
-1. Syntax of Javascript.
-2. 
-More of Personal questions, Strength and Weaknesses, 
-What are your future expectations, 
-Why you took coding as career, 
-Why you joined FunctionUp
-
-How to handle pressure
-What is function overriding
-What is function overloading
-
-What is acid property
-Http methods
-
-what is call back hell how to avoid the situation from the call back,
-Waht is method overriding
-what is method overloading
-3. Explain global and function scope on vs code.
-4. 
-6. Single threaded and multithreaded what they are?
-7. HTTP functions
-
-questions asked from JavaScript mainly on objects, Math functions, conditional statements and switch statements and some third party modules like bulk.js mainly focused on logic building.
-1.Intro
-2.JavaScript Questions- callbacks, promise, callback hell , async await 
-
-
-4. why we use caching
-5. Why startup
-6. What if shortid.generate same shortid for two long url? Did you handle this condition.
-
-8. Key, values in cache.
-Stream, buffer, sharding, event emmiter, inheritance, eventloop, stack, linked list, Replica set, callbacks and promises, closures, hoisting, difference b/w error and exception and how to handle exception, 
-Coding question array rotation
-
-how to import a external file
-  2)javascript is a multithreaded or singlethreaded, 3)javascript is a asynchronous or synchronous, 5)what is promise 6) what is callback 8)what is OOPS,9) what is operating system?
-what is this
-event loop
-pass by value pass by ref
-callback some code related question
-
- JavaScript Code Snippets on Switch cases and Object Qestions,
-For each, for loop, lemda, switch, ==, ===, inheritance,   hoisting, global scope, let scope,
-general question, about tech stack, 
-2) SetImmediate and process.nextTick
-what is REPL
-
-
- 4. Which is best for url shorten?rigid schema or flexible schema ,why?
-Callback function in deep, MVC, promise, 
-Body parser
-3rd party library
-stack, linked list ,queue with example 
-scyn and async with real life example 
-oops feature and advantages
-software development cycle ,what is software architecture
-what is operating system. 
-oops, its advantages
-abstraction , inheritance
-merge two sorted array and its result should be sorted form
-ol tag and ul tag
-
-5. http method
-6. difference between import and require
-7. what is lexical in import and report
-
-
-Array map filter
-
-Bycript
-How do i encrypted password
-Schema
-How do we reference
-Express.js
-Any other fremwork you worked on
-Cart model in deep
-difference let , var and const
-
-map vs foreach
-array vs map
-axios
-Body parser
-
-
-Migration in Db 
-What are Data Types and primitve and no primitve data?
-What are function and arrow functions?
-
-
-10. Callback with an example 
-
-2)callback 3)quicksort 4) git command to commit 
-In how many ways we can do asynchronous programming in java script, which factor is responsible for asynchronous programming in java script,what is agreegation pipeline and what are its steps.and they alson asked me to sort an array live coding.
-
-### 2=> how was your day ?
-
-
-### 4=> strength 
-
-### You are comfortable in workform home or want to relocate?
-
-## 1.Find all combination of given string?
-## 2.Find intersection of two arrays
-
 
 NodeJs
 
@@ -551,7 +23,7 @@ Tell me about yourselves , What is event loop , how to safe nodejs server when m
 
 What is nodejs, event loop in nodejs,reverse string, time complexity, map , reduce, filter, foreach loop
 Nodejs Single threaded, express js, routing, package.json, package_lock_json, Javascript , difference between var and let , Child process , ForEach and map difference , subStr , stack and queue ,
-
+npm description like how it works, system modelling etc.
 Event loop explain.
 5. Working of Nodejs.
 5. what is piping in nodejs
@@ -575,7 +47,7 @@ why have you choosen the nodejs for backend technology?
 4.what is buffer class
 
 -how to make JavaScript multithred and asynchronous oparation
--callBack vs promise which is better
+
 -what is express
 -explain router and app.use
 - why join function up you have already don b.tech cse.
@@ -585,16 +57,11 @@ why have you choosen the nodejs for backend technology?
 18)what is body parser 
 19) if we didn't use bodyparser. Json what will happen
 
-23) and related to get api
-
 2, is javascript backend or forntend ?
 3, what is Api ? full form nd use cases of it ?
 
 6,differences between == and === ?
 8, what is the purpose of json ?
-Get vs post 
-various methods of api
-
 
 modules in nodejs promise how much will u rate you in nodejs
 Nodejs,require and import ,Http methods,oops,async and await,sorting algorithm,data structure ,stack,array,queque,linkedlist,operating system ,feature and function of operating system
@@ -624,8 +91,7 @@ folder structure in node js
 what is APL function of node js.
 what is default scope of node js.
 what is eventemitter in node js?
-Node js, callback, event loop, emitter, sys..asyn.. await, logical questions based on node js and Java script .
-. How node js handle concurrency as it is single threaded?
+
 How node js handle child thread request.
 node js is single threaded?how node js handle multiple request basically they ask about architecture of node js?
 how node works, module types , dot env , command used for requiring library in a project, rejex in details , api types in node in detail etc
@@ -634,6 +100,17 @@ how node works, module types , dot env , command used for requiring library in a
 3)what is http req.
 4) difference between error and exception
 5) what is express?
+
+
+1.how to connect local to github
+
+Thoroughly asked about http request
+Difference between get and post.. can we create the with get
+Difference between put and patch
+
+Difference between http and https
+About axios
+
 
 9. Write a constructor function.
 8. Do you know about E9?, Then he explained about company
@@ -652,6 +129,12 @@ Explain Connection Draining ?
 What is REST Api ?
 What does PUT Api actually do ?
 What is difference between PUT Api and PATCH Api ?
+About restApi, Http methods 
+
+apis
+parts of apis
+types of sapi function
+Write get api and delete api
 Make sure the skill set which you are good at is provided in resume.
 If you just know a lil information about the skill which you have learnt Just mention it as familiar 
 
@@ -683,7 +166,7 @@ Ques 10. If I delete history of browser and cookies...will it be possible that b
 -event loop
 -datatypes in javascript
 -pass by value & pass by reference
--callback hell
+
 -what is express
 
 7. how node js handles multiple requests 
@@ -811,7 +294,6 @@ Node Advanced -- what is crypto module , hashing, event loop , advanced concept
 4. Rate yourself in MongoDB and Node.js
 Why you want to be a Node.js Developer.
 how to generate token 
-explain authentication and authorization
 7. create jwt token and pass as middleware
 ## What is express, middleware,types
 4. Write an api and pass an middleware.
@@ -1122,7 +604,7 @@ project related question where asked
 2. Explain the last project- how you achieve it?
 3. How to make project scalable?
 Project Related Question 
-Write get api and delete api
+
 can you interact with project with command line?
 Explain the URL Shortner Project?
 Question Related Project?
@@ -1153,10 +635,6 @@ Asked about projects Wanted to know our projects in deep and Grilled Specificall
 12)explain product management project 
 13) login api
 
-apis
-parts of apis
-types of sapi function
-
 child progressive
 
 5)QueryParam vs PathParam?
@@ -1179,7 +657,7 @@ d. What is DNS?
 Why are you creating modules in projects?
 
 Explain Eventemitter and Event loop?
-How to implement Authentication and Authorisation in your project?
+
 
 13.write a query for updating an id?
 1=>Which is your best project
@@ -1193,7 +671,7 @@ How to implement Authentication and Authorisation in your project?
 Projects, Daily Routine, When will you available to join WFO.
  project deployment. 
 3.Most interesting part of project
-Extensive discussion over project Product management. Login Api
+Extensive discussion over project Product management.
 Explain cartModel of 5th project
 Explain req.send and res.send
 Explain findOne
@@ -1214,7 +692,7 @@ projects E-commerce website explain?
 What projects have you done what technologies used while developing these projects 
 Explain any one project
 Part you did in project
-Authentication and authorization
+
 1) He gave me a senario where he asked that if we want to calculate the electrical power consumption of a user then what will be the models,controlers and routes we will have to design 2)He asked me the to open the online shoping website and expalin the project in nutshell and describe how to use s3 service of it and in which format image file gets saved
 3 asked me that to name the modules that I have used in the project and also asked me about the git commands.
 explain project 
@@ -1234,9 +712,6 @@ Explain your projects briefly.
 Where I belong to
 GitHub profile details
 How many projects Done 
-
-
-1. Projects, tell me product management project apismade by you , Did u made any api ? which project and what aspect of it u found most challenging?
 
 3. About Projects(in how many projects you used these tech Stacks)
 - Tell me about your projects.
@@ -1260,7 +735,7 @@ How many projects Done
 3. backend project description
 
 What is expressJs
-About restApi, Http methods 
+
 Questions related to project:
  What is bodyParser.json()
  Use of app.use()
@@ -1292,8 +767,6 @@ An assignment in node.js to register users of a gym for two centers, users can a
 
 ### 6. Problems faced in that project
 
-### Create node project from scratch ,post and get apis . 
-
 ### 4. tell me about one of your projects and what is your role.
 
 ### 5. can you able to make URL shortner Project without any dependency.
@@ -1315,20 +788,14 @@ What is MVC
 Why is module.exports used for,
 What is event loop
 
-
-Javascript :-
-1. What is promise.
-2. what is callback.
 3. what is memoization.
 4. what is clouser.
-
-Explain the apis
 
 
 
 
 can I send the body inside the get method?
-can you fetch data by using post method?
+
 
 why we use Cash memory?
 
@@ -1336,7 +803,7 @@ one puzzle- bulb question
 
 
 
-Javascript Questions: diff betn = and == , async await, try catch, arrow function , diff betn setTimeout and setInterval, callback
+Javascript Questions: diff betn = and == , async await, try catch, arrow function ,
 some logical questions like how to get object with specific key val pair from array of object.
 had to write in google doc
 
@@ -1865,8 +1332,7 @@ rotation k times of array
 4)How to do filter from data base condition is you have to fatch the data with the name of authorName in data base collect the book and count the book
 5)Write a schema for author and book and connect this two schema with ref.
 6)map(),fillter()
-7)CallBack()
-.
+
 
 1. Find the Pythagorean triplets in an array in js simple function.
 4. Find pythagorean triplet in an array using promise.
@@ -1993,6 +1459,16 @@ string coding question count the character in a word
 3. Add str and number first and last digit in alternate manner.
 
 
+Linear list
+
+Non linear list
+
+Sort algorithm
+  6.Tell me verbally how you merge two sorted array, without using any constraints, eg like without storing into any empty array or without pushing it into a empty array. like you can not make > let result = [], and pushing everyelement into it.
+
+ operating system related questions, different data structures, sorting algorithms, 
+question on data structure- like array, stack, queue, tree,  spreed operators, JavaScript function 
+
 
 Rotate array Dsa promblem
 
@@ -2001,8 +1477,6 @@ DSA questions
 2)compare two ele in array
 3) compare two ele of objects in arrays 
 
-2. If input is even then resolve otherwise reject
-3. Why we use promise, what are the drawback of using callback
 4. Create an api in which you will take a password and store the hashed password
 5. Take the normal password and compare with hashed password if both matches then return correct password
 

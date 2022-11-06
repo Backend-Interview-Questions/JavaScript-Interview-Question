@@ -34,6 +34,9 @@
 | 21. | [What are the different schema types in a mongoose schema?](#What-are-the-different-schema-types-in-a-mongoose-schema)
 | 22. | [What are some validations used in the schema?](#What-are-some-validations-used-in-the-schema)
 
+
+Q. what is agreegation pipeline and what are its steps.and they also
+
 ---
 
 1. ### What is mongo db?
